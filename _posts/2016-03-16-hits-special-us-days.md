@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "... frôlant l'univers de Tarentino"
-datePublished: '2016-03-16T19:34:00.913Z'
-dateModified: '2016-03-16T19:33:56.146Z'
+description: 2 On the road again ( Willie Nelson)
+datePublished: '2016-03-16T19:44:40.715Z'
+dateModified: '2016-03-16T19:41:42.703Z'
 title: "32 HITS SPECIAL US DAYS\_"
 author: []
 sourcePath: _posts/2016-03-16-hits-special-us-days.md
@@ -22,14 +22,11 @@ url: 32-hits-special-us-days/index.html
 _type: Article
 
 ---
-# 32 HITS SPECIAL US DAYS 
+# 32 HITS SPECIAL US DAYS ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08fb0ca6-d14a-406f-9c04-127c1ea2b89f.jpg)
 
 ## Le répertoire idéal d'un Rassemblement US !
 
 Zed 's dead Baby !
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c34e23b350ea1cf05d699a2863fbbb8120d9b752.jpg)
-
-... frôlant l'univers de Tarentino
 
 _1 Son of Preacherman ( Pulp Fiction)_
 
