@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: BETTY LASCENE
-datePublished: '2016-03-16T14:02:31.182Z'
-dateModified: '2016-03-16T14:02:25.588Z'
+description: Qui est Betty Lascene ?
+datePublished: '2016-03-16T14:13:55.814Z'
+dateModified: '2016-03-16T14:02:36.168Z'
 title: "Betty ?\_"
 author: []
 sourcePath: _posts/2016-03-16-duo-betty-lascene.md
