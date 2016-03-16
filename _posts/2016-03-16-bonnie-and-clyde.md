@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "Shooting photo au Musée de l'Aviation by Alexandre BIENFAIT"
-datePublished: '2016-03-16T14:00:41.332Z'
-dateModified: '2016-03-16T14:00:40.318Z'
+description: 'Un Hold Up de 100 000 Hits dérobés en plein jour !'
+datePublished: '2016-03-16T14:33:44.399Z'
+dateModified: '2016-03-16T14:33:15.392Z'
 title: LES GANGSTERS
 author: []
 sourcePath: _posts/2016-03-16-bonnie-and-clyde.md
@@ -28,3 +28,7 @@ _type: Article
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c5422617298524392cfd6ad323066d056a433e6.jpg)
 
 Un Hold Up de 100 000 Hits dérobés en plein jour !
+
+C'est en milieu d'apres midi jusque tard dans la nuit que les Gangsters (Seve & Alex) ont habilement commis leurs méfaits. Plusieurs centaines de titres inoubliables et de grandes valeurs et d'autres moins ont été dérobés. Nous ne connaissons pas encore le montant du butin, mais il semblerait que ce couple de malfaiteurs ai emporté des collections de hits parmis lesquelles figuraient des essentiels du Jazz, Rock, Vintage, Gospel...
+
+L'audace de ces deux Artistes les aurait même pousser à laisser un message sur le mur de l'Entrepot visité : " Vous nous entendrez chanter ! "
