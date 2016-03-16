@@ -1,14 +1,10 @@
 ---
-author:
-  - name: ALEXANDRE CHALON
-    url: 'https://www.youtube.com/user/alxsparker'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=kM8iTVg3FII'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - views
@@ -21,7 +17,13 @@ keywords:
   - '790'
   - swan
 description: Us Days de Montboucher sur Jabron 2014
-inLanguage: en
+datePublished: '2016-03-16T17:19:04.979Z'
+dateModified: '2016-03-16T17:18:38.465Z'
+author:
+  - name: ALEXANDRE CHALON
+    url: 'https://www.youtube.com/user/alxsparker'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=kM8iTVg3FII&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=kM8iTVg3FII'
 title: US DAYS with Betty Lascene
-datePublished: '2016-03-16T17:18:28.032Z'
-dateModified: '2016-03-16T17:14:48.569Z'
 sourcePath: _posts/2016-03-16-us-days-with-betty-lascene.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
