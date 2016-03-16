@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 1 Son of Preacherman ( Pulp Fiction)
-datePublished: '2016-03-16T14:17:12.936Z'
-dateModified: '2016-03-16T14:16:55.937Z'
+datePublished: '2016-03-16T14:20:05.299Z'
+dateModified: '2016-03-16T14:19:34.202Z'
 title: "Hits \_spécial US Days"
 author: []
 sourcePath: _posts/2016-03-16-hits-special-us-days.md
@@ -18,14 +19,13 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: hits-special-us-days/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Hits  spécial US Days
 
 ## Le répertoire idéal d'un Rassemblement US
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f97a5eaf-c011-4677-a5c9-ba42123bf700.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c34e23b350ea1cf05d699a2863fbbb8120d9b752.jpg)
 
 1 Son of Preacherman ( Pulp Fiction)
 
