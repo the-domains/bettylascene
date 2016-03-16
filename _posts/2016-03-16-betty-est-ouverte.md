@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: "En extérieur ou à l'intérieur, Betty trouve toujours sa place !"
-datePublished: '2016-03-16T19:03:40.519Z'
-dateModified: '2016-03-16T19:00:54.690Z'
+datePublished: '2016-03-16T19:20:42.843Z'
+dateModified: '2016-03-16T19:20:18.426Z'
 title: OPEN .... IS SPICY
 author: []
 sourcePath: _posts/2016-03-16-betty-est-ouverte.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: betty-est-ouverte/index.html
-_type: WebPage
+_type: Article
 
 ---
 # OPEN .... IS SPICY
