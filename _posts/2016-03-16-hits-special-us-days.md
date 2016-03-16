@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 2 On the road again ( Willie Nelson)
-datePublished: '2016-03-16T19:45:06.679Z'
-dateModified: '2016-03-16T19:44:58.900Z'
+datePublished: '2016-03-16T19:47:29.303Z'
+dateModified: '2016-03-16T19:47:05.331Z'
 title: "32 HITS SPECIAL US DAYS\_"
 author: []
 sourcePath: _posts/2016-03-16-hits-special-us-days.md
@@ -22,7 +22,7 @@ url: 32-hits-special-us-days/index.html
 _type: Article
 
 ---
-# 32 HITS SPECIAL US DAYS ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08fb0ca6-d14a-406f-9c04-127c1ea2b89f.jpg)
+# 32 HITS SPECIAL US DAYS ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fc95d0d3fc0a9959b9ab1bcbd9e45a4ebfe7747.jpg)
 
 ## Le répertoire idéal d'un Rassemblement US !
 
