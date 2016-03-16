@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: BETTY LASCENE
-datePublished: '2016-03-16T13:37:50.199Z'
-dateModified: '2016-03-16T13:37:39.623Z'
+datePublished: '2016-03-16T13:40:23.995Z'
+dateModified: '2016-03-16T13:40:20.417Z'
 title: Duo BETTY LASCENE
 author: []
+sourcePath: _posts/2016-03-16-duo-betty-lascene.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-duo-betty-lascene.md
-published: true
 url: duo-betty-lascene/index.html
 _type: Article
 
