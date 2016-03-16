@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Qui est Betty Lascene ?
-datePublished: '2016-03-16T14:13:55.814Z'
-dateModified: '2016-03-16T14:02:36.168Z'
+datePublished: '2016-03-16T14:18:37.186Z'
+dateModified: '2016-03-16T14:18:31.166Z'
 title: "Betty ?\_"
 author: []
 sourcePath: _posts/2016-03-16-duo-betty-lascene.md
@@ -24,7 +24,9 @@ _type: Article
 ---
 # Betty ? 
 
-## Mais qu'a t 'elle de plus que moi ?
+## Mais qu'a t 'elle de plus 
+
+## que MOI ?
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a631b44d088a5e1de59a2de1f59782194c4304b.jpg)
 
 Qui est Betty Lascene ?
