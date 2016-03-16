@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "En extérieur ou à l'intérieur, Betty trouve toujours sa place\_"
-datePublished: '2016-03-16T16:44:56.454Z'
-dateModified: '2016-03-16T16:44:47.827Z'
+description: "En extérieur ou à l'intérieur, Betty trouve toujours sa place !"
+datePublished: '2016-03-16T16:50:02.440Z'
+dateModified: '2016-03-16T16:49:46.338Z'
 title: BETTY EST.... OUVERTE
 author: []
+sourcePath: _posts/2016-03-16-betty-est-ouverte.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-betty-est-ouverte.md
-published: true
 url: betty-est-ouverte/index.html
 _type: Article
 
