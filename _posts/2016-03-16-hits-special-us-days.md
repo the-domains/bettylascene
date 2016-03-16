@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: "... frôlant l'univers de Tarentino"
-datePublished: '2016-03-16T18:03:46.295Z'
-dateModified: '2016-03-16T18:03:11.154Z'
+datePublished: '2016-03-16T19:05:57.816Z'
+dateModified: '2016-03-16T19:04:43.588Z'
 title: "32 HITS SPECIAL US DAYS\_"
 author: []
 sourcePath: _posts/2016-03-16-hits-special-us-days.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: hits-special-us-days/index.html
-_type: Article
+_type: Blurb
 
 ---
 # 32 HITS SPECIAL US DAYS 
