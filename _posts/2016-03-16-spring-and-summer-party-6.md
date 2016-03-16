@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ARDECHE AMERICAN DREAM
-datePublished: '2016-03-16T17:41:13.553Z'
-dateModified: '2016-03-16T17:41:06.437Z'
-title: ''
+description: ''
+datePublished: '2016-03-16T17:48:51.650Z'
+dateModified: '2016-03-16T17:48:46.047Z'
+title: ARDECHE AMERICAN DREAM
 author: []
 sourcePath: _posts/2016-03-16-spring-and-summer-party-6.md
 published: true
@@ -22,9 +22,9 @@ url: spring-and-summer-party-6/index.html
 _type: Article
 
 ---
-ARDECHE AMERICAN DREAM
+# ARDECHE AMERICAN DREAM
 
-...de belles américaines à ses pieds
+## ...de belles américaines à ses pieds
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba02a25d725b2fa3b54d828753dee9e0e35e67b7.jpg)
 
 Betty Lascene et les Gangsters sera présente lors du 6ème  Spring and Summer Party , rassemblement GEANT organisé par notre ami Boris Ithier, professeur de danse West Coast, Salsa, R&R aussi fêlé que nous.
