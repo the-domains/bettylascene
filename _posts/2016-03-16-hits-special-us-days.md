@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "... frôlant l'univers de Tarentino"
-datePublished: '2016-03-16T16:38:25.782Z'
-dateModified: '2016-03-16T16:37:02.928Z'
+datePublished: '2016-03-16T16:39:39.814Z'
+dateModified: '2016-03-16T16:39:34.959Z'
 title: "Hits \_spécial US Days"
 author: []
 sourcePath: _posts/2016-03-16-hits-special-us-days.md
@@ -31,66 +31,66 @@ Zed 's dead Baby !
 
 ... frôlant l'univers de Tarentino
 
-1 Son of Preacherman ( Pulp Fiction)
+_1 Son of Preacherman ( Pulp Fiction)_
 
-2 On the road again ( Willie Nelson)
+_2 On the road again ( Willie Nelson)_
 
-3 My Love for evermore (Hillbilly Explosion)
+_3 My Love for evermore (Hillbilly Explosion)_
 
-4 Feel like going home (Mark Knopfler)
+_4 Feel like going home (Mark Knopfler)_
 
-5 Love me tender (Elvis)
+_5 Love me tender (Elvis)_
 
-6 Girl Crush ( Little Red Wagon)
+_6 Girl Crush ( Little Red Wagon)_
 
-7 Apache
+_7 Apache_
 
-8 House of rising sun
+_8 House of rising sun_
 
-9 Bad thing ( BO de True Blood)
+_9 Bad thing ( BO de True Blood)_
 
-10 Love is a red dress ( Bo Pulpfiction)
+_10 Love is a red dress ( Bo Pulpfiction)_
 
-11 Redneck Paradise ( Kid Rock)
+_11 Redneck Paradise ( Kid Rock)_
 
-12 Smoke Break ( Carrie Underwood)
+_12 Smoke Break ( Carrie Underwood)_
 
-13 Sunrise (Norah Jones)
+_13 Sunrise (Norah Jones)_
 
-14If i didn't know Better ( BO Nashville )
+_14If i didn't know Better ( BO Nashville )_
 
-15 It's a heartache ( Bonnie Tyler)
+_15 It's a heartache ( Bonnie Tyler)_
 
-16 Don't know why ( Norah Jones)
+_16 Don't know why ( Norah Jones)_
 
-17 Desperado ( Eagles)
+_17 Desperado ( Eagles)_
 
-18 Need you now ( Lady Antebellum)
+_18 Need you now ( Lady Antebellum)_
 
-19 Don't put dirt on my grave ( BO Nashville)
+_19 Don't put dirt on my grave ( BO Nashville)_
 
-20 Purple Rain ( version Etta James)
+_20 Purple Rain ( version Etta James)_
 
-21That's how i got to memphis
+_21That's how i got to memphis_
 
-22 I love her first
+_22 I love her first_
 
-23 Lonestar ( Norah Jones)
+_23 Lonestar ( Norah Jones)_
 
-24 have you ever seen the rain creedence
+_24 have you ever seen the rain creedence_
 
-25 Sweet home alabama (Lynrd Synrd)
+_25 Sweet home alabama (Lynrd Synrd)_
 
-26 Black Velvet (Alannah Miles)
+_26 Black Velvet (Alannah Miles)_
 
-27 In the Army now (Status QUo)
+_27 In the Army now (Status QUo)_
 
-28 What's goin on ( 4 non Blonde)
+_28 What's goin on ( 4 non Blonde)_
 
-29 Knock on heaven's door (Bob Dylan)
+_29 Knock on heaven's door (Bob Dylan)_
 
-30 These boots are made for walkin ( nancy Sinatra)
+_30 These boots are made for walkin ( nancy Sinatra)_
 
-31 Dock of the Bay ( Otis redding)
+_31 Dock of the Bay ( Otis redding)_
 
-32 Nignts in white satin ( Moody Blues)
+_32 Nignts in white satin ( Moody Blues)_
