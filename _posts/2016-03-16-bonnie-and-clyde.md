@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Magnifique shooting photo au Musée de l'Aviation"
-datePublished: '2016-03-16T13:47:20.323Z'
-dateModified: '2016-03-16T13:47:17.524Z'
+datePublished: '2016-03-16T13:47:35.947Z'
+dateModified: '2016-03-16T13:47:30.310Z'
 title: "Bonnie & Clyde\_"
 author: []
 sourcePath: _posts/2016-03-16-bonnie-and-clyde.md
