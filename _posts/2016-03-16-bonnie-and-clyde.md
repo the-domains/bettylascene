@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: 'Un Hold Up de 100 000 Hits dérobés en plein jour !'
-datePublished: '2016-03-16T19:08:16.526Z'
-dateModified: '2016-03-16T18:59:47.121Z'
+datePublished: '2016-03-16T19:28:02.561Z'
+dateModified: '2016-03-16T19:25:47.375Z'
 title: LES GANGSTERS
 author: []
 sourcePath: _posts/2016-03-16-bonnie-and-clyde.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: les-gangsters/index.html
+_type: Article
 
 ---
 # LES GANGSTERS
