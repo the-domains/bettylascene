@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Betty Lascene et les Gangsters sera présente lors du 6ème \_Spring and Summer Party , rassemblement GEANT organisé par notre ami Boris Ithier, professeur de danse West Coast, Salsa, R&R aussi fêlé que nous."
-datePublished: '2016-03-16T18:03:35.689Z'
-dateModified: '2016-03-16T18:02:57.156Z'
+datePublished: '2016-03-16T18:11:11.165Z'
+dateModified: '2016-03-16T18:06:00.217Z'
 title: ARDECHE AMERICAN DREAM
 author: []
 sourcePath: _posts/2016-03-16-spring-and-summer-party-6.md
