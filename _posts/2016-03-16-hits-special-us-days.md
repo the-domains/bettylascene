@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "... frôlant l'univers de Tarentino"
-datePublished: '2016-03-16T17:04:14.494Z'
-dateModified: '2016-03-16T17:04:09.049Z'
-title: "32 Hits \_spécial US Days"
+datePublished: '2016-03-16T17:05:54.553Z'
+dateModified: '2016-03-16T17:05:02.468Z'
+title: "32 HITS SPECIAL US DAYS\_"
 author: []
 sourcePath: _posts/2016-03-16-hits-special-us-days.md
 published: true
@@ -22,7 +22,7 @@ url: hits-special-us-days/index.html
 _type: Article
 
 ---
-# 32 Hits  spécial US Days
+# 32 HITS SPECIAL US DAYS 
 
 ## Le répertoire idéal d'un Rassemblement US !
 
