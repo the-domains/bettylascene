@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=kM8iTVg3FII'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - duration
   - views
@@ -17,8 +17,8 @@ keywords:
   - '790'
   - swan
 description: Us Days de Montboucher sur Jabron 2014
-datePublished: '2016-03-17T08:45:52.589Z'
-dateModified: '2016-03-17T08:45:48.362Z'
+datePublished: '2016-03-17T08:49:24.664Z'
+dateModified: '2016-03-17T08:49:19.062Z'
 author:
   - name: ALEXANDRE CHALON
     url: 'https://www.youtube.com/user/alxsparker'
