@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Un Hold Up de 100 000 Hits dérobés en plein jour !'
-datePublished: '2016-03-17T08:51:02.126Z'
-dateModified: '2016-03-17T08:50:59.752Z'
+datePublished: '2016-03-17T10:49:25.468Z'
+dateModified: '2016-03-17T10:49:18.444Z'
 title: LES GANGSTERS
 author: []
 sourcePath: _posts/2016-03-16-bonnie-and-clyde.md
@@ -29,6 +29,6 @@ _type: Article
 
 Un Hold Up de 100 000 Hits dérobés en plein jour !
 
-C'est en milieu d'apres midi jusque tard dans la nuit que les Gangsters (Seve & Alex) ont habilement commis leurs méfaits. Plusieurs centaines de titres inoubliables et de grandes valeurs et d'autres moins ont été dérobés. Nous ne connaissons pas encore le montant du butin, mais il semblerait que ce couple de malfaiteurs ai emporté des collections de hits parmis lesquelles figuraient des essentiels du Jazz, Rock, Vintage, Gospel...
+C'est en milieu d'après midi jusque tard dans la nuit que les Gangsters (Sève & Alex) ont habilement commis leurs méfaits. Plusieurs centaines de titres inoubliables de grandes valeurs et d'autres moins ont été dérobés. Nous ne connaissons pas encore le montant du butin, mais il semblerait que ce couple de malfaiteurs ait emporté des collections de hits parmi lesquels figureraient des essentiels du Jazz, Rock, Vintage, Gospel...
 
-L'audace de ces deux Artistes les aurait même pousser à laisser un message sur le mur de l'Entrepot visité : " Vous nous entendrez chanter ! "
+L'audace de ces deux Artistes les aurait même pousser à laisser un message sur le mur de l'Entrepôt visité : " Vous nous entendrez chanter ! "
