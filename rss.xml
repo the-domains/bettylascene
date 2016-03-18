@@ -4,8 +4,22 @@
         <description><![CDATA[BETTY-LASCENE & LES GANGSTERS]]></description>
         <link>https://thegrid.ai/bettylascene/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 09:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 09:05:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bettylascene/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Betty ? ]]></title>
+            <description><![CDATA[<article><h1>Betty ? </h1><h2>Mais qu'a t 'elle de plus ......que MOI ?</h2><p>Qui est Betty Lascene ?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5a832543abb022ad76ddf1d4244cd02e758268a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bettylascene/betty/index.html</link>
+            <guid isPermaLink="false">1e39b76b-1fc9-4879-9f8e-87efe2830597</guid>
+            <pubDate>Fri, 18 Mar 2016 09:04:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[32 HITS SPECIAL US DAYS ]]></title>
+            <description><![CDATA[<article><h1>32 HITS SPECIAL US DAYS </h1><h2>Le répertoire idéal d'un Rassemblement US !</h2><p>2 On the road again ( Willie Nelson)</p></article>]]></description>
+            <link>https://thegrid.ai/bettylascene/32-hits-special-us-days/index.html</link>
+            <guid isPermaLink="false">4dba6e65-155e-4379-88ea-1c1b63ac1c02</guid>
+            <pubDate>Fri, 18 Mar 2016 09:04:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OPEN .... IS SPICY]]></title>
             <description><![CDATA[<article><h1>OPEN .... IS SPICY</h1><p>En extérieur ou à l'intérieur, Betty trouve toujours sa place !</p></article>]]></description>
@@ -28,13 +42,6 @@
             <pubDate>Fri, 18 Mar 2016 09:04:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[32 HITS SPECIAL US DAYS ]]></title>
-            <description><![CDATA[<article><h1>32 HITS SPECIAL US DAYS </h1><h2>Le répertoire idéal d'un Rassemblement US !</h2><p>2 On the road again ( Willie Nelson)</p></article>]]></description>
-            <link>https://thegrid.ai/bettylascene/32-hits-special-us-days/index.html</link>
-            <guid isPermaLink="false">4dba6e65-155e-4379-88ea-1c1b63ac1c02</guid>
-            <pubDate>Thu, 17 Mar 2016 08:45:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ARDECHE AMERICAN DREAM]]></title>
             <description><![CDATA[<article><h1>ARDECHE AMERICAN DREAM</h1><h2>...de belles américaines à ses pieds</h2><p>Betty Lascene et les Gangsters sera présente lors du 6ème  Spring and Summer Party , rassemblement GEANT organisé par notre ami Boris Ithier, professeur de danse West Coast, Salsa, R&R aussi fêlé que nous.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b4e342e53636667d84af1a92f70312c96895c01.jpg"></article>]]></description>
             <link>https://thegrid.ai/bettylascene/spring-and-summer-party-6/index.html</link>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/bettylascene/les-gangsters/index.html</link>
             <guid isPermaLink="false">f662364d-1f25-4798-9f59-ae98b37f7ff6</guid>
             <pubDate>Fri, 18 Mar 2016 08:59:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Betty ? ]]></title>
-            <description><![CDATA[<article><h1>Betty ? </h1><h2>Mais qu'a t 'elle de plus ......que MOI ?</h2><p>Qui est Betty Lascene ?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5a832543abb022ad76ddf1d4244cd02e758268a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/bettylascene/betty/index.html</link>
-            <guid isPermaLink="false">1e39b76b-1fc9-4879-9f8e-87efe2830597</guid>
-            <pubDate>Thu, 17 Mar 2016 08:54:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
