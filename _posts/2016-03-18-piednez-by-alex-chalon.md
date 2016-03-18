@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://soundcloud.com/alex-chalon/piednez'
 inLanguage: null
 starred: false
 keywords: []
-description: Stream Piednez by Alex Chalon from desktop or your mobile device
-datePublished: '2016-03-18T17:59:16.977Z'
-dateModified: '2016-03-18T17:59:13.760Z'
+description: C Je me suis l’vé face a l’horizon
+datePublished: '2016-03-18T18:08:54.127Z'
+dateModified: '2016-03-18T18:06:31.030Z'
 author:
   - name: Alex Chalon
     url: 'http://soundcloud.com/alex-chalon'
@@ -60,6 +59,7 @@ publisher:
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+url: piednez-by-alex-chalon/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
