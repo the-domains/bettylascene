@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Un Hold Up de 100 000 Hits dérobés en plein jour !'
-datePublished: '2016-03-18T14:36:50.903Z'
-dateModified: '2016-03-18T14:35:07.713Z'
+datePublished: '2016-03-18T14:38:29.151Z'
+dateModified: '2016-03-18T14:38:20.143Z'
 title: LES GANGSTERS
 author: []
 sourcePath: _posts/2016-03-16-bonnie-and-clyde.md
@@ -25,7 +25,7 @@ _type: Article
 # LES GANGSTERS
 
 ## sur le tarmack
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/adcf0e4a85dc0a9f231c195f68423d2d59313598.jpg)
+![Duo Musiciens professionnels Vintage pour rassemblements US](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d600d39e9e92f030904bb9a82e27c2ed6cf412e.jpg)
 
 Un Hold Up de 100 000 Hits dérobés en plein jour !
 
