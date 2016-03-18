@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "En extérieur ou à l'intérieur, Betty trouve toujours sa place !"
-datePublished: '2016-03-18T14:11:03.728Z'
-dateModified: '2016-03-18T14:10:56.931Z'
+datePublished: '2016-03-18T18:13:08.058Z'
+dateModified: '2016-03-18T17:49:57.357Z'
 title: OPEN .... IS SPICY
 author: []
 sourcePath: _posts/2016-03-16-betty-est-ouverte.md
@@ -29,4 +29,4 @@ _type: Article
 
 En extérieur ou à l'intérieur, Betty trouve toujours sa place !
 
-Armé d'un réseau éléctrique et DMX, Betty Lascene a simplement besoin d'une prise de courant ou d'un groupe électrogène afin de faire le show !
+Armée d'un réseau éléctrique et DMX, Betty Lascene a simplement besoin d'une prise de courant ou d'un groupe électrogène afin de faire le show !
