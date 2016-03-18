@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/alex-chalon/piednez'
+inLanguage: null
+starred: false
+keywords: []
+description: Stream Piednez by Alex Chalon from desktop or your mobile device
+datePublished: '2016-03-18T15:11:18.162Z'
+dateModified: '2016-03-18T15:00:56.490Z'
 author:
   - name: Alex Chalon
     url: 'http://soundcloud.com/alex-chalon'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: Stream Piednez by Alex Chalon from desktop or your mobile device
 app_links:
   - type: ios
     namespace: ai
@@ -48,15 +51,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/alex-chalon/piednez'
 title: Piednez by Alex Chalon
-datePublished: '2016-03-18T14:57:44.629Z'
-dateModified: '2016-03-18T14:57:04.082Z'
 sourcePath: _posts/2016-03-18-piednez-by-alex-chalon.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 _type: AudioObject
 _context: 'http://schema.org'
 
