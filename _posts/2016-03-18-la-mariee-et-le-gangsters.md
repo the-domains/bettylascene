@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Mariage de Jo & Max'
-datePublished: '2016-03-18T18:04:42.491Z'
-dateModified: '2016-03-18T18:04:35.930Z'
-title: La Mariée et le Gangsters
+datePublished: '2016-03-18T18:09:32.750Z'
+dateModified: '2016-03-18T18:05:02.135Z'
+title: La Mariée et leS Gangsters
 author: []
+sourcePath: _posts/2016-03-18-la-mariee-et-le-gangsters.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-la-mariee-et-le-gangsters.md
-published: true
 url: la-mariee-et-le-gangsters/index.html
 _type: Article
 
 ---
-# La Mariée et le Gangsters
+# La Mariée et leS Gangsters
 
 ## Rouge Rockabilly
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5240cdc8-4b81-43e2-a36b-7e2217a4d65b.jpg)
@@ -42,8 +42,5 @@ est rempli de photos de moi et d'autres jeunes filles auxquelles il m'associe pa
 Sur ma scene, tour à tour ont joués, bien entendu mes gangsters Sève & Alex, mais aussi quelques artistes en herbe, pour un boeuf improvisé à la derniers minute... que de bon moments musicaux.
 
 Betty
-
-  
-
 
 [0]: http://www.abienfaitphotographe.com/
