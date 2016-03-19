@@ -1,4 +1,4 @@
-name: 'BETTY LASCENE & GANGSTERS'
+name: 'BETTY LASCENE & LES GANGSTERS'
 favicon: null
 layout_spectrum: 0.50366
 typography_spectrum: 0.20745
@@ -8,7 +8,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-75321215-1
   facebook: null
   twitter: null
 opengraph:
