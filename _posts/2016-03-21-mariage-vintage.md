@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-21T17:32:02.953Z'
-dateModified: '2016-03-21T17:32:00.942Z'
+datePublished: '2016-03-21T18:41:58.250Z'
+dateModified: '2016-03-21T18:41:36.923Z'
 title: "MARIAGE VINTAGE\_"
 author: []
 sourcePath: _posts/2016-03-21-mariage-vintage.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # MARIAGE VINTAGE 
 
-## Betty plante le décor American Dream
+## décor American Dream
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5f32a10-9422-47f3-a36e-8774efbf770e.jpg)
 
 cocktail et Airstream le **Vintage**, les années 50, le côté rétro attirent de plus en plus les futurs jeunes mariés. De nombreux blog et autres site internet donnent de plus en plus d'idée pour organiser  un **mariagevintage** des plus original. Je vais vous en citer quelques un afin de vous guider au mieux si vous souhaitez rentrer dans cet univers .
