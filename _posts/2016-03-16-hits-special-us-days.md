@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 2 On the road again ( Willie Nelson)
-datePublished: '2016-03-21T19:00:22.997Z'
-dateModified: '2016-03-21T19:00:20.315Z'
-title: "32 HITS \_\"US \""
+datePublished: '2016-03-21T19:27:51.079Z'
+dateModified: '2016-03-21T19:27:33.081Z'
+title: RÉPERTOIRE
 author: []
 sourcePath: _posts/2016-03-16-hits-special-us-days.md
 published: true
@@ -22,9 +22,9 @@ url: 32-hits-special-us-days/index.html
 _type: Article
 
 ---
-# 32 HITS  "US "
+# RÉPERTOIRE
 
-## Le répertoire idéal d'un Rassemblement US !
+## ...idéal d'un Rassemblement US !
 ![Teye Apache Guitare de Nashville](https://s3-us-west-2.amazonaws.com/the-grid-img/p/104498454ab33ff284dbfc8370056adba1345ffc.jpg)
 
 Zed 's dead Baby !
