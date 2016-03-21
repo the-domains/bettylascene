@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Comme importer une airstream en France ?
-datePublished: '2016-03-21T17:44:19.673Z'
-dateModified: '2016-03-21T17:44:16.613Z'
-title: 'BETTY : LA CREATION'
+datePublished: '2016-03-21T18:37:04.073Z'
+dateModified: '2016-03-21T18:36:42.546Z'
+title: 'BETTY : CREATION'
 author: []
 sourcePath: _posts/2016-03-21-la-creation-de-betty-lascene.md
 published: true
@@ -22,7 +22,7 @@ url: la-creation-de-betty-lascene/index.html
 _type: Article
 
 ---
-# BETTY : LA CREATION
+# BETTY : CREATION
 
 ## Tremplin vers une nouvelle aventure
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c017090-820e-4b2c-8b39-2ca58d7bea88.jpg)
