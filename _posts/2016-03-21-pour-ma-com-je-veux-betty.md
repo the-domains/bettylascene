@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Notre Airstream est à couper le souffle. Unique, son l’intérieur comme son extérieur sont une toile vierge n'attendant que votre imagination.\_"
-datePublished: '2016-03-21T17:04:55.667Z'
-dateModified: '2016-03-21T17:04:53.033Z'
+datePublished: '2016-03-21T17:26:45.893Z'
+dateModified: '2016-03-21T17:23:33.682Z'
 title: "Pour ma com', Je veux Betty !"
 author: []
 sourcePath: _posts/2016-03-21-pour-ma-com-je-veux-betty.md
