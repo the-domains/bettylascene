@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Mariage de Jo & Max'
-datePublished: '2016-03-18T18:09:32.750Z'
-dateModified: '2016-03-18T18:05:02.135Z'
-title: La Mariée et leS Gangsters
+datePublished: '2016-03-21T15:54:58.204Z'
+dateModified: '2016-03-19T18:05:28.159Z'
+title: La Mariée et les Gangsters
 author: []
 sourcePath: _posts/2016-03-18-la-mariee-et-le-gangsters.md
 published: true
@@ -22,12 +22,12 @@ url: la-mariee-et-le-gangsters/index.html
 _type: Article
 
 ---
-# La Mariée et leS Gangsters
+# La Mariée et les Gangsters
 
 ## Rouge Rockabilly
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5240cdc8-4b81-43e2-a36b-7e2217a4d65b.jpg)
 
-Oui, tout de rouge vêtu, ma nouvelle copine s'est mariée le 20 Septembre à St Laurent d'Agny dans le  Rhône, avec son amoureux qui portait un joli noeud papillon damier. 
+Oui, tout de rouge vêtue, ma nouvelle copine s'est mariée le 20 Septembre à St Laurent d'Agny dans le  Rhône, avec son amoureux qui portait un joli noeud papillon damier. 
 
 Le thème de ce mariage était orienté Années 50 et 60 et quel bonheur de voir tous les invités jouer le jeu et se vêtir de robes mettant en valeur les courbes de toutes ces jeunes femmes ! 
 
