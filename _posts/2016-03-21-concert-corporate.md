@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Dynamisez l'esprit d'équipe de votre entreprise !\_"
-datePublished: '2016-03-21T17:19:46.086Z'
-dateModified: '2016-03-21T17:19:30.594Z'
-title: 'Concert "Corporate"'
+datePublished: '2016-03-21T17:36:06.713Z'
+dateModified: '2016-03-21T17:35:30.493Z'
+title: 'Betty & les Food Trucks'
 author: []
+sourcePath: _posts/2016-03-21-concert-corporate.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-concert-corporate.md
-published: true
 url: concert-corporate/index.html
 _type: Article
 
 ---
-# Concert**"**Corporate**"**
+# Betty & les Food Trucks
 
-## Fédérer les Food Trucks
+## Un succès gourmand
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a80f9bda-32a7-43ae-af4c-30f4058076ea.jpg)
 
 Dynamisez l'esprit d'équipe de votre entreprise ! 
