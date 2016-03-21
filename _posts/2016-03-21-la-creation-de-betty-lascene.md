@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Comme importer une airstream en France ?
-datePublished: '2016-03-21T15:28:50.840Z'
-dateModified: '2016-03-21T15:28:41.520Z'
+datePublished: '2016-03-21T16:52:14.902Z'
+dateModified: '2016-03-21T16:52:05.754Z'
 title: La création de Betty Lascene
 author: []
+sourcePath: _posts/2016-03-21-la-creation-de-betty-lascene.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-la-creation-de-betty-lascene.md
-published: true
 url: la-creation-de-betty-lascene/index.html
 _type: Article
 
@@ -25,6 +25,7 @@ _type: Article
 # La création de Betty Lascene
 
 ## Obstacles et Tremplin vers une nouvelle aventure
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c017090-820e-4b2c-8b39-2ca58d7bea88.jpg)
 
 Nous avons tous des envies, des projets, des rêves plein la tête, le plus souvent ils ne se réalisent pas car entreprendre aujourd'hui est un peu synonyme de folie. Et pourtant, c'est , à notre humble avis, la seule façon de vivre sa vie et non de la subir. 
 
