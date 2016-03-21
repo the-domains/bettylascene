@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: C Je me suis l’vé face a l’horizon
-datePublished: '2016-03-21T19:45:51.074Z'
-dateModified: '2016-03-21T19:43:58.615Z'
+datePublished: '2016-03-21T19:47:57.417Z'
+dateModified: '2016-03-21T19:47:47.109Z'
 author:
   - name: Alex Chalon
     url: 'http://soundcloud.com/alex-chalon'
