@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Notre Airstream est à couper le souffle. Unique, son l’intérieur comme son extérieur sont une toile vierge n'attendant que votre imagination.\_"
-datePublished: '2016-03-21T17:43:55.394Z'
-dateModified: '2016-03-21T17:43:52.930Z'
-title: "MA COM C'EST BETTY !"
+datePublished: '2016-03-21T18:45:42.699Z'
+dateModified: '2016-03-21T18:45:37.498Z'
+title: 'MA COM : BETTY !'
 author: []
 sourcePath: _posts/2016-03-21-pour-ma-com-je-veux-betty.md
 published: true
@@ -22,7 +22,7 @@ url: pour-ma-com-je-veux-betty/index.html
 _type: Article
 
 ---
-# MA COM C'EST BETTY !
+# MA COM : BETTY !
 
 ## ...et ses Gangsters
 
