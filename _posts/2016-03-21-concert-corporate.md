@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Dynamisez l'esprit d'équipe de votre entreprise !\_"
-datePublished: '2016-03-21T18:39:23.120Z'
-dateModified: '2016-03-21T18:39:17.471Z'
+datePublished: '2016-03-21T18:41:53.423Z'
+dateModified: '2016-03-21T18:41:31.107Z'
 title: les Food Trucks
 author: []
 sourcePath: _posts/2016-03-21-concert-corporate.md
