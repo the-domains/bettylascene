@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Comme importer une airstream en France ?
-datePublished: '2016-03-21T18:42:07.677Z'
-dateModified: '2016-03-21T18:42:06.134Z'
+datePublished: '2016-03-21T18:48:46.772Z'
+dateModified: '2016-03-21T18:48:18.835Z'
 title: 'BETTY : CREATION'
 author: []
 sourcePath: _posts/2016-03-21-la-creation-de-betty-lascene.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # BETTY : CREATION
 
-## Tremplin vers une nouvelle aventure
+## Une nouvelle aventure
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c017090-820e-4b2c-8b39-2ca58d7bea88.jpg)
 
 Nous avons tous des envies, des projets, des rêves plein la tête, le plus souvent ils ne se réalisent pas car entreprendre aujourd'hui est un peu synonyme de folie. Et pourtant, c'est , à notre humble avis, la seule façon de vivre sa vie et non de la subir. 
