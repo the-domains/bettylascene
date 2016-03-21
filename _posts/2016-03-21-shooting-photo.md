@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Photographie de mode, mariages ou élément de votre clip video, notre caravane s'’intègre parfaitement dans votre objectif et vous apportera ce côté vintage que vous recherchez !"
-datePublished: '2016-03-21T15:52:25.537Z'
-dateModified: '2016-03-21T15:52:24.955Z'
+datePublished: '2016-03-21T17:08:08.693Z'
+dateModified: '2016-03-21T17:08:08.186Z'
 title: "\_SHOOTING PHOTO"
 author: []
+sourcePath: _posts/2016-03-21-shooting-photo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-shooting-photo.md
-published: true
 url: shooting-photo/index.html
 _type: Article
 
