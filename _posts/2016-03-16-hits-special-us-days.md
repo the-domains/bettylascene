@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 2 On the road again ( Willie Nelson)
-datePublished: '2016-03-21T19:27:51.079Z'
-dateModified: '2016-03-21T19:27:33.081Z'
+datePublished: '2016-03-21T19:30:58.346Z'
+dateModified: '2016-03-21T19:30:55.317Z'
 title: RÉPERTOIRE
 author: []
 sourcePath: _posts/2016-03-16-hits-special-us-days.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: 32-hits-special-us-days/index.html
-_type: Article
+_type: WebPage
 
 ---
 # RÉPERTOIRE
