@@ -4,7 +4,7 @@
         <description><![CDATA[BETTY-LASCENE & LES GANGSTERS]]></description>
         <link>https://thegrid.ai/bettylascene/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 17:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 17:54:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bettylascene/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betty ? ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bettylascene/betty/index.html</link>
             <guid isPermaLink="false">1e39b76b-1fc9-4879-9f8e-87efe2830597</guid>
             <pubDate>Mon, 21 Mar 2016 17:27:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>SÈVE</p>]]></description>
+            <link>https://thegrid.ai/bettylascene/seve/index.html</link>
+            <guid isPermaLink="false">742f6006-1916-431b-8ae0-8846c92606b8</guid>
+            <pubDate>Mon, 21 Mar 2016 17:54:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Piednez by Alex Chalon]]></title>
@@ -63,18 +70,11 @@
             <pubDate>Mon, 21 Mar 2016 17:15:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[La création de Betty Lascene]]></title>
-            <description><![CDATA[<article><h1>La création de Betty Lascene</h1><h2>Tremplin vers une nouvelle aventure</h2><p>Comme importer une airstream en France ?</p></article>]]></description>
+            <title><![CDATA[BETTY : LA CREATION]]></title>
+            <description><![CDATA[<article><h1>BETTY : LA CREATION</h1><h2>Tremplin vers une nouvelle aventure</h2><p>Comme importer une airstream en France ?</p></article>]]></description>
             <link>https://thegrid.ai/bettylascene/la-creation-de-betty-lascene/index.html</link>
             <guid isPermaLink="false">a50f3db3-e83d-4763-a139-40902d5b92bc</guid>
-            <pubDate>Mon, 21 Mar 2016 17:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La Mariée et les Gangsters]]></title>
-            <description><![CDATA[<article><h1>La Mariée et les Gangsters</h1><h2>Rouge Rockabilly</h2><p>Mariage de Jo & Max</p></article>]]></description>
-            <link>https://thegrid.ai/bettylascene/la-mariee-et-le-gangsters/index.html</link>
-            <guid isPermaLink="false">a42fb0cc-3f3c-427e-93ae-502a7d4815fd</guid>
-            <pubDate>Mon, 21 Mar 2016 17:33:25 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2016 17:44:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
