@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-21T17:25:48.940Z'
-dateModified: '2016-03-21T17:25:47.093Z'
+datePublished: '2016-03-21T17:29:50.283Z'
+dateModified: '2016-03-21T17:29:45.646Z'
 title: "MARIAGE VINTAGE\_"
 author: []
 sourcePath: _posts/2016-03-21-mariage-vintage.md
@@ -29,7 +29,8 @@ _type: Article
 
 cocktail et Airstream le **Vintage**, les années 50, le côté rétro attirent de plus en plus les futurs jeunes mariés. De nombreux blog et autres site internet donnent de plus en plus d'idée pour organiser  un **mariagevintage** des plus original. Je vais vous en citer quelques un afin de vous guider au mieux si vous souhaitez rentrer dans cet univers .
 
-* Une mariée dans une airstream  
+Une mariée dans une airstream
+
 Voici tout d'abord un blog fort sympathique avec de nombreuses idées retro et**vintage**[http://mariages-retro.blogspot.fr][0]  
 Sur facebook vous pouvez également trouver de nombreuses pages comme celle ci que j'adoooore : [https://www.facebook.com/NEOVINTAGE][1]  
 **mariage** rétro dans airstream  
@@ -40,21 +41,26 @@ Vous voyez, je suis trés occupée alors réservez moi vite !
 Voici quelques clichés pris au hasard du web pour vous inspirer. N'hésitez pas à les commenter !  
 **Vintagemariage** airstream  
 Vive les mariés en airstream.
-* Les temoins et les maries devant l'airstream  
+
+Les temoins et les maries devant l'airstream  
 Tout juste attachés  
 Les filles devant l'airstream, crème et crème
-* Une belle grimace au fond de l'airstream  
+
+Une belle grimace au fond de l'airstream  
 a kiss devant l'airstream  
 couple devant airstream
-* le reflet de l'amour de l'airstream  
+
+le reflet de l'amour de l'airstream  
 Photo en l'airstream, l'air retro, l'ere vintage  
 Belle ambiance pour mariage exterieur avec une airstream
-* La mariée sort de l'Airstream  
+
+La mariée sort de l'Airstream  
 cocktail et Airstream  
 mariee dans airstream
-* voyage de noce dans airstream
-* vintage wedding
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e60d338-2d4d-4e5e-a480-8d2d2da1ce2a.jpg)
+
+voyage de noce dans airstream
+
+vintage wedding
 
 [0]: http://mariages-retro.blogspot.fr/
 [1]: https://www.facebook.com/NEOVINTAGE
