@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-23T12:05:29.349Z'
-dateModified: '2016-03-23T12:05:19.269Z'
+datePublished: '2016-03-23T12:06:14.263Z'
+dateModified: '2016-03-23T12:06:11.318Z'
 title: "MARIAGE VINTAGE\_"
 author: []
 sourcePath: _posts/2016-03-21-mariage-vintage.md
@@ -44,14 +44,14 @@ Vous pouvez donc me louer pour rajouter un cachet **vintage** encore plus authen
 Vous pourrez vous faire prendre en photo en vous frottant contre ma carlingue, vous pourrez passer votre nuit de noce sauvage en couchant dans mon écrin de lumière . 
 
 Je peux également venir accompagnée. De nombreux artistes se battent pour jouer sur mon corps de scène parfait pour un cocktail jazz crooner.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b63a2caa-bce0-4334-9e01-8f1c11fa7a14.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e033bf1a0a4bbeab671daf57922eff0e5819ccf.jpg)
 
 N'hésitez pas à venir me voir chez moi ou lors d'un de mes meetings . En effet vous pouvez parfois m'apercevoir lors d'un shooting photo comme illustré sur cette page, lors d'un salon, lors d'une séance de street marketing pour promouvoir l'image de marque d'une entreprise, ou encore lors d'un concert privé ou public pour un particulier ou pour une commune et autre collectivité.
 
 Vous voyez, je suis trés occupée alors réservez moi vite !  
 **Vintagemariage** airstream  
 Vive les mariés en airstream.
-![Un ciel d'azur  , un mariage noir et blanc en perspective](https://the-grid-user-content.s3-us-west-2.amazonaws.com/baced4e7-6d16-4dbe-bc8f-c183f8234de7.jpg)
+![Un ciel d'azur  , un mariage noir et blanc en perspective](https://s3-us-west-2.amazonaws.com/the-grid-img/p/872ce122f57268137e6f1c54b042b1eff0f0741f.jpg)
 
 le reflet de l'amour de l'airstream  
 Photo en l'airstream, l'air retro, l'ere vintage  
