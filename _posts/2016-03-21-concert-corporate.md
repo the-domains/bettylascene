@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Dynamisez l'esprit d'équipe de votre entreprise !\_"
-datePublished: '2016-03-21T19:47:15.239Z'
-dateModified: '2016-03-21T19:46:14.707Z'
+datePublished: '2016-03-23T12:13:07.188Z'
+dateModified: '2016-03-23T12:12:14.444Z'
 title: les Food Trucks
 author: []
 sourcePath: _posts/2016-03-21-concert-corporate.md
@@ -25,7 +25,7 @@ _type: Article
 # les Food Trucks
 
 ## Un succès gourmand
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a80f9bda-32a7-43ae-af4c-30f4058076ea.jpg)
+![Rassemblement de food truck pour ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a80f9bda-32a7-43ae-af4c-30f4058076ea.jpg)
 
 Dynamisez l'esprit d'équipe de votre entreprise ! 
 
