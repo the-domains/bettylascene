@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-21T18:41:58.250Z'
-dateModified: '2016-03-21T18:41:36.923Z'
+datePublished: '2016-03-23T11:54:52.905Z'
+dateModified: '2016-03-23T11:53:41.662Z'
 title: "MARIAGE VINTAGE\_"
 author: []
 sourcePath: _posts/2016-03-21-mariage-vintage.md
@@ -25,7 +25,7 @@ _type: Article
 # MARIAGE VINTAGE 
 
 ## décor American Dream
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5f32a10-9422-47f3-a36e-8774efbf770e.jpg)
+![La Belle Séverine dans notre Airstream](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27551ae3-1cf7-4b6f-88e9-58cc03442e5d.jpg)
 
 cocktail et Airstream le **Vintage**, les années 50, le côté rétro attirent de plus en plus les futurs jeunes mariés. De nombreux blog et autres site internet donnent de plus en plus d'idée pour organiser  un **mariagevintage** des plus original. Je vais vous en citer quelques un afin de vous guider au mieux si vous souhaitez rentrer dans cet univers .
 
@@ -41,6 +41,7 @@ Vous voyez, je suis trés occupée alors réservez moi vite !
 Voici quelques clichés pris au hasard du web pour vous inspirer. N'hésitez pas à les commenter !  
 **Vintagemariage** airstream  
 Vive les mariés en airstream.
+![Yann & Severine, notre couple préféré dans la lavande vers Montélimar](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80621496-10c3-4b02-b2ab-6c6e3677c88f.jpg)
 
 Les temoins et les maries devant l'airstream  
 Tout juste attachés  
@@ -49,10 +50,12 @@ Les filles devant l'airstream, crème et crème
 Une belle grimace au fond de l'airstream  
 a kiss devant l'airstream  
 couple devant airstream
+![Un ciel d'azur  , un mariage noir et blanc en perspective](https://the-grid-user-content.s3-us-west-2.amazonaws.com/baced4e7-6d16-4dbe-bc8f-c183f8234de7.jpg)
 
 le reflet de l'amour de l'airstream  
 Photo en l'airstream, l'air retro, l'ere vintage  
 Belle ambiance pour mariage exterieur avec une airstream
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d548f9e8-4244-405d-8559-45cddb3fe317.jpg)
 
 La mariée sort de l'Airstream  
 cocktail et Airstream  
