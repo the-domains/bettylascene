@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-23T12:02:22.134Z'
-dateModified: '2016-03-23T12:00:30.025Z'
+datePublished: '2016-03-23T12:03:27.458Z'
+dateModified: '2016-03-23T12:02:41.900Z'
 title: "MARIAGE VINTAGE\_"
 author: []
 sourcePath: _posts/2016-03-21-mariage-vintage.md
