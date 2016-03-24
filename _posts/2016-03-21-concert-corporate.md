@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "Dynamisez l'esprit d'équipe de votre entreprise !\_"
-datePublished: '2016-03-23T12:13:07.188Z'
-dateModified: '2016-03-23T12:12:14.444Z'
+datePublished: '2016-03-24T21:40:41.645Z'
+dateModified: '2016-03-24T21:11:39.912Z'
 title: les Food Trucks
 author: []
 sourcePath: _posts/2016-03-21-concert-corporate.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: concert-corporate/index.html
-_type: Article
+_type: Blurb
 
 ---
 # les Food Trucks
