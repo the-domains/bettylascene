@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: C Je me suis l’vé face a l’horizon
-datePublished: '2016-04-04T20:47:45.039Z'
-dateModified: '2016-04-04T20:40:19.144Z'
+datePublished: '2016-04-06T12:52:28.816Z'
+dateModified: '2016-04-06T08:46:16.694Z'
 author:
   - name: Alex Chalon
     url: 'http://soundcloud.com/alex-chalon'
@@ -74,7 +74,7 @@ C Je me suis l'vé face a l'horizon
 
 Mon coeur s' foutant de ma raison
 
-J'ai des idées à tout casserJe vais
+J'ai des idées à tout casser Je vais
 
 mettre le feu au plancher
 
