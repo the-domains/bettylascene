@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Qui est Betty Lascene ?
-datePublished: '2016-04-06T08:13:57.216Z'
-dateModified: '2016-04-06T08:13:44.909Z'
+datePublished: '2016-04-06T12:50:57.376Z'
+dateModified: '2016-04-06T12:50:12.626Z'
 title: "Betty ?\_"
 author: []
 sourcePath: _posts/2016-03-16-duo-betty-lascene.md
@@ -43,6 +43,6 @@ Revêtue d'aluminium, Betty est fière. elle et ses consoeurs sont un pied d'nez
 
 Soyons francs, la transformation qu'a subit Betty est du plus bel effet: quel bel hayon latéral !quel panache !
 
-«  si tu ne viens pas aux concerts d'Alex & co, les concerts d'Alex & co iront à toi « ! telle pourrait être la nouvelle maxime de Betty.
+«  si tu ne viens pas aux concerts d'Alex & co( les gangsters dans cette formule), les concerts d'Alex & co iront à toi « ! telle pourrait être la nouvelle maxime de Betty.
 
-Une renaissance puis une mission:véhiculer des animationsmusicales d'Alex & co dans un champ, une rue, une place de village, pour des fêtes de villages, des petits concerts, des jeunes mariés... Betty a encore de nombreuses pages à écrire et débute un nouveau chapitre dans l'histoire d'Alex & co.
+Une renaissance puis une mission:véhiculer des animations musicales, spectacles, concerts, show d'Alex & co dans un champ, une rue, une place de village, pour des fêtes de villages, des petits concerts, des jeunes mariés... Betty a encore de nombreuses pages à écrire et débute un nouveau chapitre dans l'histoire d'Alex & co.
