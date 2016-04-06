@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.facebook.com/flamingocafesteflo/photos/a.539344789459483.1073741828.533706006690028/839814052745887/?type=3&theater'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-06T08:08:05.486Z'
-dateModified: '2016-04-06T08:07:45.428Z'
+datePublished: '2016-04-06T08:09:20.751Z'
+dateModified: '2016-04-06T08:08:57.933Z'
 author: []
 title: FLAMINGO CAFE
 sourcePath: _posts/2016-03-28-flamingo-cafe.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.facebook.com
   url: null
   favicon: null
+url: flamingo-cafe/index.html
 _context: 'http://schema.org'
 _type: Article
 
