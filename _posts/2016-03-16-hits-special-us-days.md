@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 2 On the road again ( Willie Nelson)
-datePublished: '2016-04-06T08:37:48.365Z'
-dateModified: '2016-04-06T08:36:34.319Z'
+datePublished: '2016-04-06T13:42:32.922Z'
+dateModified: '2016-04-06T12:53:04.934Z'
 title: RÉPERTOIRE
 author: []
 sourcePath: _posts/2016-03-16-hits-special-us-days.md
@@ -23,9 +23,9 @@ _type: Article
 
 ---
 # RÉPERTOIRE
+![Teye Apache Guitare de Nashville](https://s3-us-west-2.amazonaws.com/the-grid-img/p/104498454ab33ff284dbfc8370056adba1345ffc.jpg)
 
 ## ...idéal d'un Rassemblement US !
-![Teye Apache Guitare de Nashville](https://s3-us-west-2.amazonaws.com/the-grid-img/p/104498454ab33ff284dbfc8370056adba1345ffc.jpg)
 
 Zed 's dead Baby !
 
