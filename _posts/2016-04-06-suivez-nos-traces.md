@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.facebook.com/Betty-Lascene-les-Gangsters-567525833280705'
 inLanguage: null
 starred: false
 keywords: []
 description: 'Betty Lascene & les gangsters facebook'
-datePublished: '2016-04-06T13:54:41.012Z'
-dateModified: '2016-04-06T13:54:20.511Z'
+datePublished: '2016-04-06T14:00:27.994Z'
+dateModified: '2016-04-06T14:00:22.632Z'
 title: 'Attrapes-nous si tu peux !'
 author: []
 sourcePath: _posts/2016-04-06-suivez-nos-traces.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: suivez-nos-traces/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # Attrapes-nous si tu peux !
