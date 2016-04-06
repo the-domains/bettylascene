@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.facebook.com/flamingocafesteflo/photos/a.539344789459483.1073741828.533706006690028/839814052745887/?type=3&theater'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-06T07:47:46.028Z'
-dateModified: '2016-04-06T07:47:29.020Z'
+datePublished: '2016-04-06T07:48:08.146Z'
+dateModified: '2016-04-06T07:48:02.002Z'
 author: []
 title: FLAMINGO CAFE
 sourcePath: _posts/2016-03-28-flamingo-cafe.md
