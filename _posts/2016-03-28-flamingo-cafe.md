@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-06T08:07:37.788Z'
-dateModified: '2016-04-06T07:49:44.547Z'
+datePublished: '2016-04-06T08:08:05.486Z'
+dateModified: '2016-04-06T08:07:45.428Z'
 author: []
 title: FLAMINGO CAFE
 sourcePath: _posts/2016-03-28-flamingo-cafe.md
