@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Qui est Betty Lascene ?
-datePublished: '2016-04-06T08:13:39.858Z'
-dateModified: '2016-04-06T08:13:35.913Z'
+datePublished: '2016-04-06T08:13:57.216Z'
+dateModified: '2016-04-06T08:13:44.909Z'
 title: "Betty ?\_"
 author: []
 sourcePath: _posts/2016-03-16-duo-betty-lascene.md
