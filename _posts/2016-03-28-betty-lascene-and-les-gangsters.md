@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-06T08:13:07.954Z'
-dateModified: '2016-04-06T08:13:07.416Z'
+datePublished: '2016-04-06T08:30:02.304Z'
+dateModified: '2016-04-06T08:29:56.800Z'
 author: []
 related: []
 app_links: []
@@ -27,12 +27,11 @@ _type: MediaObject
 ---
 # USDAYS 2016
 
-## Vintage, Country, Rock & Folk 
+## Vintage, Country, Rock & Folk ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60a9c944-7304-49d6-b217-525db6b4f608.jpg)
 
 par Alex CHALON
 
 Cette année encore, ont eu lieu des USDAYS à Montboucher sur Jabron. Un beau cru particulièrement affiné par la qualité des intervenants comme le Flamingo Café, le Duo Tann, le groupe de Rock Crystal Pulse, le taureau mécanique Oh La la, de nombreux amis, visiteurs, motos et les quelques voitures de collection.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60a9c944-7304-49d6-b217-525db6b4f608.jpg)
 
 Malgré une météo mitigée le Samedi, la bonne humeur fut de rigueur et la journée rencontra un vif succès. le Dimanche fut annulé en raison de cette météo devenue cette fois ci exécrable.
 
