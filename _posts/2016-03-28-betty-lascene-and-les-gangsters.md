@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-06T08:10:08.144Z'
-dateModified: '2016-04-06T08:09:30.290Z'
+datePublished: '2016-04-06T08:13:07.892Z'
+dateModified: '2016-04-06T08:13:07.416Z'
 author: []
 related: []
 app_links: []
@@ -47,8 +47,5 @@ Notre ami Alexandre BIENFAIt, photographe ( [http://www.abienfaitphotographe.com
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da79b571-1a01-48bd-8294-356d9bd09a4b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29ac2df7-986d-4fae-87f9-d32222a0f5ca.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09e604ec-5604-42dc-a525-f217c4cb653f.jpg)
-
-  
-
 
 [0]: http://www.abienfaitphotographe.com /
