@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-06T13:45:22.845Z'
-dateModified: '2016-04-06T13:44:45.603Z'
+description: 'Betty Lascene & les gangsters facebook'
+datePublished: '2016-04-06T13:46:44.468Z'
+dateModified: '2016-04-06T13:46:02.978Z'
 title: 'Attrapes nous si tu peux !'
 author: []
 sourcePath: _posts/2016-04-06-suivez-nos-traces.md
