@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Betty Lascene & les gangsters facebook'
-datePublished: '2016-04-06T13:46:57.419Z'
-dateModified: '2016-04-06T13:46:52.806Z'
+datePublished: '2016-04-06T13:48:04.992Z'
+dateModified: '2016-04-06T13:48:04.349Z'
 title: 'Attrapes nous si tu peux !'
 author: []
 sourcePath: _posts/2016-04-06-suivez-nos-traces.md
@@ -22,9 +22,7 @@ url: suivez-nos-traces/index.html
 _type: Article
 
 ---
-# [Attrapes nous si tu peux !][0]
+# Attrapes nous si tu peux !
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9b23d3a-dc8d-4dc3-9309-c465bb79ee5a.jpg)
 
 ## sur notre page facebook
-
-[0]: https://www.facebook.com/Betty-Lascene-les-Gangsters-567525833280705
