@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: 2 On the road again ( Willie Nelson)
-datePublished: '2016-04-19T18:38:40.420Z'
-dateModified: '2016-04-08T13:13:56.508Z'
+datePublished: '2016-04-22T22:13:35.051Z'
+dateModified: '2016-04-22T22:10:45.361Z'
 title: RÉPERTOIRE
 author: []
 sourcePath: _posts/2016-03-16-hits-special-us-days.md
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: 32-hits-special-us-days/index.html
 _type: Article
 
@@ -26,6 +26,8 @@ _type: Article
 ![Teye Apache Guitare de Nashville](https://s3-us-west-2.amazonaws.com/the-grid-img/p/104498454ab33ff284dbfc8370056adba1345ffc.jpg)
 
 ## ...idéal d'un Rassemblement US !
+
+Nous avons créé le répertoire qui nous semble idéal pour l'animation de votre rassemblement vintage de voitures et de motos anciennes.
 
 Zed 's dead Baby !
 
