@@ -4,7 +4,7 @@
         <description><![CDATA[BETTY-LASCENE & LES GANGSTERS]]></description>
         <link>http://betty-lascene.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 20:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 20:52:38 GMT</lastBuildDate>
         <atom:link href="http://betty-lascene.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betty ? ]]></title>
@@ -12,6 +12,13 @@
             <link>http://betty-lascene.fr/betty/index.html</link>
             <guid isPermaLink="false">1e39b76b-1fc9-4879-9f8e-87efe2830597</guid>
             <pubDate>Wed, 06 Apr 2016 12:51:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Musiciens de mariage]]></title>
+            <description><![CDATA[<article><h1>Musiciens de mariage</h1><p>devis pour votre mariage</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d94c829dcf7c9ffce9aa143bed44e368215eed7.jpg"></article>]]></description>
+            <link>http://www.animationmariagedrome.com/#!animationmontelimar/c24vq</link>
+            <guid isPermaLink="false">ca3efbb8-6306-442b-a572-4bca85f0fc2e</guid>
+            <pubDate>Fri, 22 Apr 2016 20:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Attrapes-nous si tu peux !]]></title>
@@ -68,13 +75,6 @@
             <link>http://betty-lascene.fr/spring-and-summer-party-6/index.html</link>
             <guid isPermaLink="false">f3703e8a-3859-450e-9c39-fb2c13a17f02</guid>
             <pubDate>Thu, 24 Mar 2016 19:37:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MARIAGE VINTAGE ]]></title>
-            <description><![CDATA[<article><h1>MARIAGE VINTAGE </h1><h2>décor American Dream</h2></article>]]></description>
-            <link>http://betty-lascene.fr/mariage-vintage/index.html</link>
-            <guid isPermaLink="false">588ca37d-5993-4f98-9928-07ca5b5564de</guid>
-            <pubDate>Wed, 23 Mar 2016 12:08:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
