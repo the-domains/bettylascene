@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://www.animationmariagedrome.com/#!animationmontelimar/c24vq'
 inLanguage: null
 keywords: []
 description: devis pour votre événement
-datePublished: '2016-04-22T20:53:50.810Z'
-dateModified: '2016-04-22T20:53:41.198Z'
+datePublished: '2016-04-22T20:55:34.340Z'
+dateModified: '2016-04-22T20:55:18.958Z'
 author:
   - name: ''
     url: ''
