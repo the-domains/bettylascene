@@ -3,13 +3,12 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: C Je me suis l’vé face a l’horizon
-datePublished: '2016-04-06T12:52:37.079Z'
-dateModified: '2016-04-06T12:52:30.878Z'
+description: "Voici une chanson que nous avons écrite en attendant Betty :), pendant l'Eté 2013, à St Germain au mont d'Or."
+datePublished: '2016-04-22T22:13:09.186Z'
+dateModified: '2016-04-22T22:13:00.944Z'
 author:
-  - name: Alex Chalon
+  - name: ''
     url: 'http://soundcloud.com/alex-chalon'
     avatar: {}
 related: []
@@ -59,6 +58,7 @@ publisher:
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+starred: false
 url: piednez-by-alex-chalon/index.html
 _type: AudioObject
 _context: 'http://schema.org'
@@ -69,6 +69,8 @@ _context: 'http://schema.org'
 ## Pied'Nez !
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F252614672%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Falex-chalon%2Fpiednez&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000151540825-j6dlxg-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+
+Voici une chanson que nous avons écrite en attendant Betty :), pendant l'Eté 2013, à St Germain au mont d'Or.
 
 C Je me suis l'vé face a l'horizon
 
