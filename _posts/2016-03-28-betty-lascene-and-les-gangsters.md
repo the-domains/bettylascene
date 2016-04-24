@@ -3,15 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-06T08:42:44.416Z'
-dateModified: '2016-04-06T08:42:37.409Z'
-author: []
+description: USDAYS 2016
+datePublished: '2016-04-24T21:09:55.229Z'
+dateModified: '2016-04-24T21:09:49.733Z'
+author:
+  - name: Alexandre Bienfait
+    url: 'http://www.abienfaitphotographe.com '
 related: []
 app_links: []
-title: USDAYS 2016
+title: ''
 sourcePath: _posts/2016-03-28-betty-lascene-and-les-gangsters.md
 published: true
 authors: []
@@ -20,14 +21,15 @@ publisher:
   domain: betty-lascene.fr
   url: 'http://betty-lascene.fr'
   favicon: null
+starred: false
 url: usdays-2016/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# USDAYS 2016
+USDAYS 2016
 
-## Vintage, Country, Rock & Folk ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60a9c944-7304-49d6-b217-525db6b4f608.jpg)
+Vintage, Country, Rock & Folk ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60a9c944-7304-49d6-b217-525db6b4f608.jpg)
 
 par Alex CHALON
 
