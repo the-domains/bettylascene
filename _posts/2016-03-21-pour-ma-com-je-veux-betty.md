@@ -3,12 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: "Notre Airstream est à couper le souffle. Unique, son l’intérieur comme son extérieur sont une toile vierge n'attendant que votre imagination.\_"
-datePublished: '2016-03-21T18:45:42.699Z'
-dateModified: '2016-03-21T18:45:37.498Z'
-title: 'MA COM : BETTY !'
+description: ''
+datePublished: '2016-04-24T21:11:00.775Z'
+dateModified: '2016-04-24T21:10:53.304Z'
+title: ''
 author: []
 sourcePath: _posts/2016-03-21-pour-ma-com-je-veux-betty.md
 published: true
@@ -18,19 +17,20 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: pour-ma-com-je-veux-betty/index.html
 _type: Article
 
 ---
-# MA COM : BETTY !
+MA COM : BETTY !
 
-## ...et ses Gangsters
+...et ses Gangsters
 
 ****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1a83092-cf98-447a-a3cc-d74103b5c9df.jpg)
 
 **Betty est une caravane américaine**  
-Airstream millésime 1957 transformée pour  les concerts-événements et les promotions en France. 
+Airstream millésime 1957 transformée pour les concerts-événements et les promotions en France. 
 
 Notre Airstream est à couper le souffle. Unique, son l'intérieur comme son extérieur sont une toile vierge n'attendant que votre imagination. 
 
