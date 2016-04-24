@@ -1,15 +1,17 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
-starred: false
 keywords: []
-description: "En extérieur ou à l'intérieur, Betty trouve toujours sa place !"
-datePublished: '2016-03-18T18:13:08.058Z'
-dateModified: '2016-03-18T17:49:57.357Z'
-title: OPEN .... IS SPICY
-author: []
+description: OPEN .... IS SPICY
+datePublished: '2016-04-24T21:13:36.436Z'
+dateModified: '2016-04-24T21:13:33.093Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-16-betty-est-ouverte.md
 published: true
 authors: []
@@ -18,13 +20,13 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: betty-est-ouverte/index.html
-_type: Article
+starred: false
+_type: Blurb
 
 ---
-# OPEN .... IS SPICY
+OPEN .... IS SPICY
 
-## Sublime écrin scintillant
+Sublime écrin scintillant
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/176583d799ae145a7cea323e80d2726ff1e22c89.jpg)
 
 En extérieur ou à l'intérieur, Betty trouve toujours sa place !
