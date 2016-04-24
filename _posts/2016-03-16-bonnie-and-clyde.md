@@ -1,15 +1,17 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
-starred: true
 keywords: []
 description: 'Un Hold Up de 100 000 Hits dérobés en plein jour !'
-datePublished: '2016-03-24T20:48:59.991Z'
-dateModified: '2016-03-24T20:48:54.609Z'
-title: HISTOIRE
-author: []
+datePublished: '2016-04-24T21:08:47.872Z'
+dateModified: '2016-04-24T21:08:46.585Z'
+title: Betty Lascene et les gangsters
+author:
+  - name: Credits photos Alexandre Bienfait
+    url: Alex CHALON
 sourcePath: _posts/2016-03-16-bonnie-and-clyde.md
 published: true
 authors: []
@@ -18,13 +20,13 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: les-gangsters/index.html
-_type: WebPage
+starred: true
+_type: Blurb
 
 ---
-# HISTOIRE
+HISTOIRE
 
-## ...de Gangsters
+...de Gangsters
 ![Duo Musiciens professionnels Vintage pour rassemblements US](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d600d39e9e92f030904bb9a82e27c2ed6cf412e.jpg)
 
 Un Hold Up de 100 000 Hits dérobés en plein jour !
