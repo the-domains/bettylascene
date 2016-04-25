@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.animationmariagedrome.com/#!animationmontelimar/c24vq'
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: Groupe rock montelimar
-datePublished: '2016-04-25T12:09:47.583Z'
-dateModified: '2016-04-25T12:09:46.382Z'
+datePublished: '2016-04-25T12:13:11.901Z'
+dateModified: '2016-04-25T12:12:22.215Z'
 author:
   - name: ''
     url: ''
@@ -23,6 +22,7 @@ publisher:
   url: 'http://www.animationmariagedrome.com'
   favicon: 'https://static.parastorage.com/client/pfavico.ico'
 starred: false
+url: contact/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
