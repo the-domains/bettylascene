@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T16:49:12.710Z'
-dateModified: '2016-04-25T16:49:09.351Z'
+datePublished: '2016-04-25T16:51:27.474Z'
+dateModified: '2016-04-25T16:51:16.950Z'
 title: "WOODY'JO PECKER"
 author: []
 sourcePath: _posts/2016-03-18-la-mariee-et-le-gangsters.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # WOODY'JO PECKER
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5240cdc8-4b81-43e2-a36b-7e2217a4d65b.jpg)
+![mariage Jo & max](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5240cdc8-4b81-43e2-a36b-7e2217a4d65b.jpg)
 
 ## Rouge Rockabilly
 
