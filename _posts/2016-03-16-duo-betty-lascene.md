@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Qui est Betty Lascene ?
-datePublished: '2016-04-25T18:01:24.837Z'
-dateModified: '2016-04-25T18:01:18.549Z'
+datePublished: '2016-04-25T18:02:41.137Z'
+dateModified: '2016-04-25T18:02:32.350Z'
 title: 'Betty La Scene & les Gangsters'
 author:
   - name: ''
@@ -24,9 +24,9 @@ url: betty/index.html
 _type: Article
 
 ---
-Betty ? 
+# Betty ? 
 
-Mais qu'a t 'elle de plus ......que MOI ?
+## Mais qu'a t 'elle de plus ......que MOI ?
 ![Betty, la scene des gangsters, duo de musiciens chanteurs](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5a832543abb022ad76ddf1d4244cd02e758268a.jpg)
 
 Qui est Betty Lascene ?
