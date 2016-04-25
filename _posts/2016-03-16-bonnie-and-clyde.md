@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'Un Hold Up de 100 000 Hits dérobés en plein jour !'
-datePublished: '2016-04-24T21:08:47.872Z'
-dateModified: '2016-04-24T21:08:46.585Z'
+datePublished: '2016-04-25T16:48:51.542Z'
+dateModified: '2016-04-25T16:47:48.743Z'
 title: Betty Lascene et les gangsters
 author:
   - name: Credits photos Alexandre Bienfait
@@ -21,7 +20,8 @@ publisher:
   url: null
   favicon: null
 starred: true
-_type: Blurb
+url: betty-lascene-et-les-gangsters/index.html
+_type: Article
 
 ---
 HISTOIRE
