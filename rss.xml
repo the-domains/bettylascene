@@ -4,7 +4,7 @@
         <description><![CDATA[BETTY-LASCENE & LES GANGSTERS]]></description>
         <link>http://betty-lascene.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 17:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 18:00:16 GMT</lastBuildDate>
         <atom:link href="http://betty-lascene.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betty La Scene & les Gangsters]]></title>
@@ -19,6 +19,13 @@
             <link>http://betty-lascene.fr/betty-lascene-et-les-gangsters/index.html</link>
             <guid isPermaLink="false">f662364d-1f25-4798-9f59-ae98b37f7ff6</guid>
             <pubDate>Mon, 25 Apr 2016 17:55:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HYMNE]]></title>
+            <description><![CDATA[<article><h1>HYMNE</h1><h2>Pied'Nez !</h2><p>Voici une chanson que nous avons écrite en attendant Betty :), pendant l'Eté 2013, à St Germain au mont d'Or.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dffb55e19586d55b5226d610dfba99b91c1ccf08.jpg"></article>]]></description>
+            <link>http://betty-lascene.fr/piednez-by-alex-chalon/index.html</link>
+            <guid isPermaLink="false">bb42380c-e0e7-487e-9c83-d7ad8c7c076f</guid>
+            <pubDate>Mon, 25 Apr 2016 18:00:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ARDECHE AMERICAN DREAM]]></title>
@@ -68,13 +75,6 @@
             <link>http://betty-lascene.fr/pour-ma-com-je-veux-betty/index.html</link>
             <guid isPermaLink="false">b3a34fdf-d8d2-48d0-9dad-c274e521b0ef</guid>
             <pubDate>Mon, 25 Apr 2016 12:17:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OPEN .... IS SPICY]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/176583d799ae145a7cea323e80d2726ff1e22c89.jpg" alt="" title="">]]></description>
-            <link>http://betty-lascene.fr/open--is-spicy/index.html</link>
-            <guid isPermaLink="false">5a75ac9a-e07f-431d-9c3e-904cb19299ae</guid>
-            <pubDate>Mon, 25 Apr 2016 12:17:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
