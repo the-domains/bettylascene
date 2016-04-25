@@ -4,8 +4,15 @@
         <description><![CDATA[BETTY-LASCENE & LES GANGSTERS]]></description>
         <link>http://betty-lascene.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 17:55:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 17:59:38 GMT</lastBuildDate>
         <atom:link href="http://betty-lascene.fr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Betty La Scene & les Gangsters]]></title>
+            <description><![CDATA[<article><h1>Betty La Scene & les Gangsters</h1><p>Qui est Betty Lascene ?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5a832543abb022ad76ddf1d4244cd02e758268a.jpg"></article>]]></description>
+            <link>http://betty-lascene.fr/betty/index.html</link>
+            <guid isPermaLink="false">1e39b76b-1fc9-4879-9f8e-87efe2830597</guid>
+            <pubDate>Mon, 25 Apr 2016 17:55:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Betty Lascene et les gangsters]]></title>
             <description><![CDATA[<article><h1>Betty Lascene et les gangsters</h1><p>Un Hold Up de 100 000 Hits dérobés en plein jour !</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d600d39e9e92f030904bb9a82e27c2ed6cf412e.jpg"></article>]]></description>
@@ -14,11 +21,11 @@
             <pubDate>Mon, 25 Apr 2016 17:55:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Betty La Scene & les Gangsters]]></title>
-            <description><![CDATA[<article><h1>Betty La Scene & les Gangsters</h1><p>Qui est Betty Lascene ?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5a832543abb022ad76ddf1d4244cd02e758268a.jpg"></article>]]></description>
-            <link>http://betty-lascene.fr/betty/index.html</link>
-            <guid isPermaLink="false">1e39b76b-1fc9-4879-9f8e-87efe2830597</guid>
-            <pubDate>Mon, 25 Apr 2016 17:46:15 GMT</pubDate>
+            <title><![CDATA[ARDECHE AMERICAN DREAM]]></title>
+            <description><![CDATA[<article><h1>ARDECHE AMERICAN DREAM</h1><h2>...de belles américaines à ses pieds</h2><p>Betty Lascene et les Gangsters seront présents lors du 6ème Spring and Summer Party .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b4e342e53636667d84af1a92f70312c96895c01.jpg"></article>]]></description>
+            <link>http://betty-lascene.fr/spring-and-summer-party-6/index.html</link>
+            <guid isPermaLink="false">f3703e8a-3859-450e-9c39-fb2c13a17f02</guid>
+            <pubDate>Mon, 25 Apr 2016 17:59:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FLAMINGO CAFE]]></title>
@@ -68,13 +75,6 @@
             <link>http://betty-lascene.fr/open--is-spicy/index.html</link>
             <guid isPermaLink="false">5a75ac9a-e07f-431d-9c3e-904cb19299ae</guid>
             <pubDate>Mon, 25 Apr 2016 12:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ SHOOTING PHOTO]]></title>
-            <description><![CDATA[<article><h1> SHOOTING PHOTO</h1><h2>Réservez notre Airstream</h2></article>]]></description>
-            <link>http://betty-lascene.fr/shooting-photo/index.html</link>
-            <guid isPermaLink="false">16474007-ac1c-4d7c-96d4-ae1f37542fdd</guid>
-            <pubDate>Mon, 25 Apr 2016 11:55:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
