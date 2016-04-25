@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: OPEN .... IS SPICY
-datePublished: '2016-04-24T21:13:36.436Z'
-dateModified: '2016-04-24T21:13:33.093Z'
+datePublished: '2016-04-25T12:17:12.001Z'
+dateModified: '2016-04-25T12:17:09.376Z'
 title: ''
 author:
   - name: ''
@@ -21,7 +20,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: open--is-spicy/index.html
+_type: Article
 
 ---
 OPEN .... IS SPICY
