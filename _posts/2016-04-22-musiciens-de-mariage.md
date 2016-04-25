@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: 'http://www.animationmariagedrome.com/#!animationmontelimar/c24vq'
 inLanguage: null
 keywords: []
-description: devis pour votre événement
-datePublished: '2016-04-25T11:55:38.109Z'
-dateModified: '2016-04-25T11:55:00.275Z'
+description: ''
+datePublished: '2016-04-25T12:05:26.509Z'
+dateModified: '2016-04-25T12:04:37.302Z'
 author:
   - name: ''
     url: ''
@@ -27,4 +27,5 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>CONTACT</h1><p>devis pour votre événement</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d94c829dcf7c9ffce9aa143bed44e368215eed7.jpg" /></article>
+# CONTACT
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86a19114-0723-45a0-a59f-3f9d97cd670f.jpg)
