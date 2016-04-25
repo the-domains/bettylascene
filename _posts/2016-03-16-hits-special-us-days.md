@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "...idéal d'un Rassemblement US !"
-datePublished: '2016-04-25T16:48:37.631Z'
-dateModified: '2016-04-25T16:48:34.436Z'
+datePublished: '2016-04-25T18:01:31.884Z'
+dateModified: '2016-04-25T18:01:04.118Z'
 title: RÉPERTOIRE
 author:
   - name: Alex CHALON
@@ -29,13 +29,15 @@ _type: Article
 ## HOLD UP SUR LE ROCK
 ![Teye Apache Guitare de Nashville](https://s3-us-west-2.amazonaws.com/the-grid-img/p/104498454ab33ff284dbfc8370056adba1345ffc.jpg)
 
-...idéal d'un Rassemblement US !
+**...idéal d'un Rassemblement US !**
 
 **Nous avons créé le répertoire qui nous semble idéal pour l'animation de votre rassemblement vintage de voitures et de motos anciennes.**
 
-**Zed 's dead Baby !**
+**Zed 's dead Baby !******
 
 __
+
+_Liste des titres :_
 
 _1 Son of Preacherman ( Pulp Fiction)_
 
