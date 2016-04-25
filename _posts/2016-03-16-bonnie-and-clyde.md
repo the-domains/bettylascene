@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Un Hold Up de 100 000 Hits dérobés en plein jour !'
-datePublished: '2016-04-25T16:48:51.542Z'
-dateModified: '2016-04-25T16:47:48.743Z'
+datePublished: '2016-04-25T16:53:34.938Z'
+dateModified: '2016-04-25T16:53:30.583Z'
 title: Betty Lascene et les gangsters
 author:
   - name: Credits photos Alexandre Bienfait
@@ -25,9 +25,9 @@ _type: Article
 
 ---
 HISTOIRE
+![Duo Musiciens professionnels Vintage pour rassemblements US](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d600d39e9e92f030904bb9a82e27c2ed6cf412e.jpg)
 
 ...de Gangsters
-![Duo Musiciens professionnels Vintage pour rassemblements US](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d600d39e9e92f030904bb9a82e27c2ed6cf412e.jpg)
 
 Un Hold Up de 100 000 Hits dérobés en plein jour !
 
