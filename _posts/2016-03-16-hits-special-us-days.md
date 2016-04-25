@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 2 On the road again ( Willie Nelson)
-datePublished: '2016-04-25T16:39:13.715Z'
-dateModified: '2016-04-25T16:39:01.237Z'
+datePublished: '2016-04-25T16:41:31.387Z'
+dateModified: '2016-04-25T16:41:27.721Z'
 title: RÉPERTOIRE
 author: []
 sourcePath: _posts/2016-03-16-hits-special-us-days.md
@@ -27,9 +27,9 @@ _type: Article
 
 ## ...idéal d'un Rassemblement US !
 
-Nous avons créé le répertoire qui nous semble idéal pour l'animation de votre rassemblement vintage de voitures et de motos anciennes.
+**Nous avons créé le répertoire qui nous semble idéal pour l'animation de votre rassemblement vintage de voitures et de motos anciennes.**
 
-Zed 's dead Baby !
+**Zed 's dead Baby !**
 
 __
 
