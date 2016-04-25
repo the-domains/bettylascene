@@ -1,4 +1,4 @@
-name: 'BETTY LASCENE & LES GANGSTERS'
+name: DUO MUSICIENS COUNTRY ROCK US VINTAGE
 favicon: null
 layout_spectrum: 0.50186
 typography_spectrum: 0.20745
@@ -22,7 +22,7 @@ color:
     - '#474747'
     - '#797979'
     - '#acacac'
-  brandStrength: 0.375
+  brandStrength: 0
   lightness: 0.5
   saturation: 0
   rhythmicContrast: 1
