@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T16:39:59.814Z'
-dateModified: '2016-04-25T16:39:51.917Z'
+datePublished: '2016-04-25T16:41:42.206Z'
+dateModified: '2016-04-25T16:40:11.582Z'
 author:
   - name: Alexandre Bienfait
     url: 'http://www.abienfaitphotographe.com '
@@ -39,7 +39,7 @@ Malgré une météo mitigée le Samedi, la bonne humeur fut de rigueur et la jou
 
 Un big up à Mr Raymond d'Haillecourt , président du Comité des fêtes et à tous les membres qui portent chaque année cet événement à bout de bras, tout en sachant que la météo peut anéantir ce dernier.
 
-Notre ami Alexandre BIENFAIt, photographe ( [http://www.abienfaitphotographe.com ][0]) était présent sur cette journé et nous a régalé de ces belles et nombreuses photos dont une sélection Noir & Blanc sur cette page . ous trouverez la totalité des clichés sur son site.
+Notre ami Alexandre BIENFAIt, photographe ( [http://www.abienfaitphotographe.com ][0]) était présent sur cette journée et nous a régalé de ces belles et nombreuses photos dont une sélection Noir & Blanc sur cette page . ous trouverez la totalité des clichés sur son site.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f156cefd-da97-4145-8a55-8f455a1fc10c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b07092bd-a581-453d-b1b7-e3d4a56888d9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d1491b-034d-43aa-af6c-76dfe633cdaa.jpg)
