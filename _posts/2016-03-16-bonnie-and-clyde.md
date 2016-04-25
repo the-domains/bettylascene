@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Un Hold Up de 100 000 Hits dérobés en plein jour !'
-datePublished: '2016-04-25T16:53:34.938Z'
-dateModified: '2016-04-25T16:53:30.583Z'
+datePublished: '2016-04-25T17:55:17.711Z'
+dateModified: '2016-04-25T17:55:14.143Z'
 title: Betty Lascene et les gangsters
 author:
   - name: Credits photos Alexandre Bienfait
@@ -29,8 +29,10 @@ HISTOIRE
 
 ...de Gangsters
 
-Un Hold Up de 100 000 Hits dérobés en plein jour !
+**Un Hold Up de 100 000 Hits dérobés en plein jour !**
 
-C'est en milieu d'après midi jusque tard dans la nuit que les Gangsters (Sève & Alex) ont habilement commis leurs méfaits. Plusieurs centaines de titres inoubliables de grandes valeurs et d'autres moins ont été dérobés. Nous ne connaissons pas encore le montant du butin, mais il semblerait que ce couple de malfaiteurs ait emporté des collections de hits parmi lesquels figureraient des essentiels du Jazz, Rock, Vintage, Gospel...
+**C'est en milieu d'après midi jusque tard dans la nuit que les Gangsters (Sève & Alex) ont habilement commis leurs méfaits. **
+
+Plusieurs centaines de titres inoubliables de grandes valeurs et d'autres moins ont été dérobés. Nous ne connaissons pas encore le montant du butin, mais il semblerait que ce couple de malfaiteurs ait emporté des collections de hits parmi lesquels figureraient des essentiels du Jazz, Rock, Vintage, Gospel...****
 
 L'audace de ces deux Artistes les aurait même pousser à laisser un message sur le mur de l'Entrepôt visité : " Vous nous entendrez chanter ! "
