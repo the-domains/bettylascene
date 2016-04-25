@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: USDAYS 2016
-datePublished: '2016-04-24T21:09:55.229Z'
-dateModified: '2016-04-24T21:09:49.733Z'
+description: ''
+datePublished: '2016-04-25T11:50:11.120Z'
+dateModified: '2016-04-25T11:50:07.804Z'
 author:
   - name: Alexandre Bienfait
     url: 'http://www.abienfaitphotographe.com '
@@ -27,9 +27,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-USDAYS 2016
+# USDAYS 2016
 
-Vintage, Country, Rock & Folk ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60a9c944-7304-49d6-b217-525db6b4f608.jpg)
+## Vintage, Country, Rock & Folk ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60a9c944-7304-49d6-b217-525db6b4f608.jpg)
 
 par Alex CHALON
 
