@@ -3,13 +3,14 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
 description: Qui est Betty Lascene ?
-datePublished: '2016-04-06T12:51:48.020Z'
-dateModified: '2016-04-06T12:51:46.856Z'
-title: "Betty ?\_"
-author: []
+datePublished: '2016-04-25T12:06:27.019Z'
+dateModified: '2016-04-25T12:06:26.585Z'
+title: Betty La Scene des Gangsters
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-16-duo-betty-lascene.md
 published: true
 authors: []
@@ -18,13 +19,14 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 url: betty/index.html
 _type: Article
 
 ---
-# Betty ? 
+Betty ? 
 
-## Mais qu'a t 'elle de plus ......que MOI ?
+Mais qu'a t 'elle de plus ......que MOI ?
 ![Betty, la scene des gangsters, duo de musiciens chanteurs](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5a832543abb022ad76ddf1d4244cd02e758268a.jpg)
 
 Qui est Betty Lascene ?
@@ -43,6 +45,6 @@ Revêtue d'aluminium, Betty est fière. elle et ses consoeurs sont un pied d'nez
 
 Soyons francs, la transformation qu'a subit Betty est du plus bel effet: quel bel hayon latéral !quel panache !
 
-«  si tu ne viens pas aux concerts d'Alex & co( les gangsters dans cette formule), les concerts d'Alex & co iront à toi « ! telle pourrait être la nouvelle maxime de Betty.
+« si tu ne viens pas aux concerts d'Alex & co( les gangsters dans cette formule), les concerts d'Alex & co iront à toi « ! telle pourrait être la nouvelle maxime de Betty.
 
 Une renaissance puis une mission:véhiculer des animations musicales, spectacles, concerts, show d'Alex & co dans un champ, une rue, une place de village, pour des fêtes de villages, des petits concerts, des jeunes mariés... Betty a encore de nombreuses pages à écrire et débute un nouveau chapitre dans l'histoire d'Alex & co.
