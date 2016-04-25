@@ -4,7 +4,7 @@
         <description><![CDATA[BETTY-LASCENE & LES GANGSTERS]]></description>
         <link>http://betty-lascene.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 11:51:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 11:56:08 GMT</lastBuildDate>
         <atom:link href="http://betty-lascene.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betty ? ]]></title>
@@ -12,6 +12,13 @@
             <link>http://betty-lascene.fr/betty/index.html</link>
             <guid isPermaLink="false">1e39b76b-1fc9-4879-9f8e-87efe2830597</guid>
             <pubDate>Wed, 06 Apr 2016 12:51:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ SHOOTING PHOTO]]></title>
+            <description><![CDATA[<article><h1> SHOOTING PHOTO</h1><h2>Réservez notre Airstream</h2></article>]]></description>
+            <link>http://betty-lascene.fr/shooting-photo/index.html</link>
+            <guid isPermaLink="false">16474007-ac1c-4d7c-96d4-ae1f37542fdd</guid>
+            <pubDate>Mon, 25 Apr 2016 11:55:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[USDAYS 2016]]></title>
@@ -68,13 +75,6 @@
             <link>http://betty-lascene.fr/flamingo-cafe/index.html</link>
             <guid isPermaLink="false">4d5a8c46-7976-4ddb-8fec-e9a77fecfe47</guid>
             <pubDate>Wed, 06 Apr 2016 12:51:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ARDECHE AMERICAN DREAM]]></title>
-            <description><![CDATA[<article><h1>ARDECHE AMERICAN DREAM</h1><h2>...de belles américaines à ses pieds</h2><p>Betty Lascene et les Gangsters seront présents lors du 6ème Spring and Summer Party , rassemblement GEANT organisé par notre ami Boris Ithier, professeur de danse West Coast, Salsa, R&R, d'apparence joyeuse et aussi fêlé que nous.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b4e342e53636667d84af1a92f70312c96895c01.jpg"></article>]]></description>
-            <link>http://betty-lascene.fr/spring-and-summer-party-6/index.html</link>
-            <guid isPermaLink="false">f3703e8a-3859-450e-9c39-fb2c13a17f02</guid>
-            <pubDate>Thu, 24 Mar 2016 19:37:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
