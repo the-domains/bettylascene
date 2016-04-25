@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T16:51:27.474Z'
-dateModified: '2016-04-25T16:51:16.950Z'
+datePublished: '2016-04-25T16:54:28.391Z'
+dateModified: '2016-04-25T16:54:25.217Z'
 title: "WOODY'JO PECKER"
 author: []
 sourcePath: _posts/2016-03-18-la-mariee-et-le-gangsters.md
@@ -27,7 +27,7 @@ _type: Article
 
 ## Rouge Rockabilly
 
-Oui, tout de rouge vêtue, ma nouvelle copine s'est mariée le 20 Septembre à St Laurent d'Agny dans le Rhône, avec son amoureux qui portait un joli noeud papillon damier. 
+**Oui, tout de rouge vêtue, ma nouvelle copine s'est mariée le 20 Septembre à St Laurent d'Agny dans le Rhône, avec son amoureux qui portait un joli noeud papillon damier. **
 
 Le thème de ce mariage était orienté Années 50 et 60 et quel bonheur de voir tous les invités jouer le jeu et se vêtir de robes mettant en valeur les courbes de toutes ces jeunes femmes ! 
 
