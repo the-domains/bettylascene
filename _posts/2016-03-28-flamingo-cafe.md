@@ -3,12 +3,13 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-06T12:51:55.361Z'
-dateModified: '2016-04-06T12:51:54.805Z'
-author: []
+description: 'Disponibles aussi pour vos événements privés !'
+datePublished: '2016-04-25T11:55:51.592Z'
+dateModified: '2016-04-25T11:50:26.975Z'
+author:
+  - name: Alex chalon
+    url: ''
 title: FLAMINGO CAFE
 sourcePath: _posts/2016-03-28-flamingo-cafe.md
 published: true
@@ -18,6 +19,7 @@ publisher:
   domain: www.facebook.com
   url: null
   favicon: null
+starred: false
 url: flamingo-cafe/index.html
 _context: 'http://schema.org'
 _type: Article
