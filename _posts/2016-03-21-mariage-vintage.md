@@ -3,12 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-23T12:08:43.187Z'
-dateModified: '2016-03-23T12:08:40.317Z'
-title: "MARIAGE VINTAGE\_"
+datePublished: '2016-04-28T19:37:31.665Z'
+dateModified: '2016-04-28T19:36:32.928Z'
+title: 'MARIAGE VINTAGE '
 author: []
 sourcePath: _posts/2016-03-21-mariage-vintage.md
 published: true
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: mariage-vintage/index.html
 _type: Article
 
@@ -27,15 +27,15 @@ _type: Article
 ## décor American Dream
 ![La Belle Séverine dans notre Airstream](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27551ae3-1cf7-4b6f-88e9-58cc03442e5d.jpg)
 
-cocktail et Airstream le **Vintage**, les années 50, le côté rétro attirent de plus en plus les futurs jeunes mariés. De nombreux blog et autres site internet donnent de plus en plus d'idée pour organiser  un **mariage vintage** des plus original. Une mariée dans une airstream
+cocktail et Airstream le **Vintage**, les années 50, le côté rétro attirent de plus en plus les futurs jeunes mariés. De nombreux blog et autres site internet donnent de plus en plus d'idée pour organiser un **[mariage vintage][0]** des plus original. Une mariée dans une [airstream][1]
 
-Voici tout d'abord un blog fort sympathique avec de nombreuses idées retro et**vintage **[http://mariages-retro.blogspot.fr][0]  
-Sur facebook vous pouvez également trouver de nombreuses pages comme celle ci que j'adoooore : [https://www.facebook.com/NEOVINTAGE][1]  
+Voici tout d'abord un blog fort sympathique avec de nombreuses idées retro et**vintage **[http://mariages-retro.blogspot.fr][2]  
+Sur facebook vous pouvez également trouver de nombreuses pages comme celle ci que j'adoooore : [https://www.facebook.com/NEOVINTAGE][3]  
 **mariage** rétro dans airstream
 
 Vous trouverez plein d'idées originales en tapant sous google le mot clef **vintage** wedding puis en recherchant des images. Elles vous emmèneront à coup sûr sur des sites plus intéressants les uns que les autres.
 
-Dans ma région rhone alpes, [http://www.mademoiselle-dentelle.fr][2] se distingue par un blog tres bien conçu qui vous aidera dans l'organisation de votre plus beau jour avec des rubriques mode et beauté, décor, cérémonie réception et problèmes éventuels que vous pouvez rencontrer.
+Dans ma région rhone alpes, [http://www.mademoiselle-dentelle.fr][4] se distingue par un blog tres bien conçu qui vous aidera dans l'organisation de votre plus beau jour avec des rubriques mode et beauté, décor, cérémonie réception et problèmes éventuels que vous pouvez rencontrer.
 
 Vous me connaissez un petit peu si vous avez fait le tour de ce blog site. Je suis Betty, une caravane américaine Airstream et suis disponible à la location. 
 
@@ -58,6 +58,8 @@ Photo en l'airstream, l'air retro, l'ere vintage
 Belle ambiance pour mariage exterieur avec une airstream
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d548f9e8-4244-405d-8559-45cddb3fe317.jpg)
 
-[0]: http://mariages-retro.blogspot.fr/
-[1]: https://www.facebook.com/NEOVINTAGE
-[2]: http://www.mademoiselle-dentelle.fr/
+[0]: www.alexnco.fr
+[1]: http://alexnco.fr/cest-votre-mariage/
+[2]: http://mariages-retro.blogspot.fr/
+[3]: https://www.facebook.com/NEOVINTAGE
+[4]: http://www.mademoiselle-dentelle.fr/
