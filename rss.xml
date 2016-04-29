@@ -4,7 +4,7 @@
         <description><![CDATA[BETTY-LASCENE & LES GANGSTERS]]></description>
         <link>http://betty-lascene.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 18:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 18:23:50 GMT</lastBuildDate>
         <atom:link href="http://betty-lascene.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betty Lascene et les gangsters]]></title>
@@ -19,6 +19,13 @@
             <link>http://betty-lascene.fr/betty/index.html</link>
             <guid isPermaLink="false">1e39b76b-1fc9-4879-9f8e-87efe2830597</guid>
             <pubDate>Mon, 25 Apr 2016 18:03:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SHOOTING AU MUSEE DE L'AVIATION]]></title>
+            <description><![CDATA[<article><h1>SHOOTING AU MUSEE DE L'AVIATION</h1><h2>Sève & Alex , les Gangsters</h2><p>Retrouvez l'ensemble de photos de notre shooting au musee de l'aviation de Montélimar</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ca0b9810b3e071cabb77517437906790474fa84.jpg"></article>]]></description>
+            <link>http://www.abienfaitphotographe.com/portfolios/alex-n-co-et-betty-la-scene/</link>
+            <guid isPermaLink="false">295acb18-84fc-4ff5-8d11-ad739456c0d5</guid>
+            <pubDate>Fri, 29 Apr 2016 18:23:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ILLUSTRATION autour de BETTY]]></title>
@@ -68,13 +75,6 @@
             <link>http://betty-lascene.fr/spring-and-summer-party-6/index.html</link>
             <guid isPermaLink="false">f3703e8a-3859-450e-9c39-fb2c13a17f02</guid>
             <pubDate>Mon, 25 Apr 2016 18:00:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HYMNE]]></title>
-            <description><![CDATA[<article><h1>HYMNE</h1><h2>Pied'Nez !</h2><p>Voici une chanson que nous avons écrite en attendant Betty :), pendant l'Eté 2013, à St Germain au mont d'Or.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dffb55e19586d55b5226d610dfba99b91c1ccf08.jpg"></article>]]></description>
-            <link>http://betty-lascene.fr/piednez-by-alex-chalon/index.html</link>
-            <guid isPermaLink="false">bb42380c-e0e7-487e-9c83-d7ad8c7c076f</guid>
-            <pubDate>Mon, 25 Apr 2016 18:00:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
