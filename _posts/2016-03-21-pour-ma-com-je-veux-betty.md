@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T12:17:56.076Z'
-dateModified: '2016-04-25T12:17:46.739Z'
+datePublished: '2016-04-29T11:26:52.465Z'
+dateModified: '2016-04-29T11:26:51.193Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-21-pour-ma-com-je-veux-betty.md
@@ -22,9 +22,9 @@ url: pour-ma-com-je-veux-betty/index.html
 _type: Article
 
 ---
-MA COM : BETTY !
+# MA COM : BETTY !
 
-...et ses Gangsters
+## ...et ses Gangsters
 
 ****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1a83092-cf98-447a-a3cc-d74103b5c9df.jpg)
