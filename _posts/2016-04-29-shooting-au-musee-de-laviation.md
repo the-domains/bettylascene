@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.abienfaitphotographe.com/portfolios/alex-n-co-et-betty-la-scene/'
 inLanguage: fr
 keywords: []
 description: "Nous avons organisé en 2014, un shooting au Musée de l'Aviation de Chasse de Montélimar. Nous remercions chaleureusement Alain Bes et toute son équipe pour l'accueil et la confiance qu'ils nous ont accordé."
-datePublished: '2016-04-29T18:23:32.208Z'
-dateModified: '2016-04-29T18:23:27.428Z'
+datePublished: '2016-04-29T18:26:12.211Z'
+dateModified: '2016-04-29T18:25:41.802Z'
 author:
   - name: ''
     url: ''
@@ -23,6 +22,7 @@ publisher:
   url: 'http://www.abienfaitphotographe.com'
   favicon: 'http://www.abienfaitphotographe.com/wp-content/uploads/2013/11/favicon1.png'
 starred: false
+url: shooting-au-musee-de-laviation/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
