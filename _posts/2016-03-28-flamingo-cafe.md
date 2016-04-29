@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Disponibles aussi pour vos événements privés !'
-datePublished: '2016-04-29T18:40:44.290Z'
-dateModified: '2016-04-29T18:26:31.989Z'
+datePublished: '2016-04-29T18:40:56.861Z'
+dateModified: '2016-04-29T18:40:46.357Z'
 author:
   - name: Alex chalon
     url: ''
@@ -26,7 +26,7 @@ _type: Article
 
 ---
 # FLAMINGO CAFE
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/719a40f9-5ddc-4384-a043-ded9541c28e9.jpg)
+![Food Truck Trailer Caravane américaine](https://the-grid-user-content.s3-us-west-2.amazonaws.com/719a40f9-5ddc-4384-a043-ded9541c28e9.jpg)
 
 ## Burgers & Bagels de Ouf !!!!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/805c6c06865a7f59571ac9c176d51c8e4b84875b.jpg)
