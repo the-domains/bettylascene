@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ILLUSTRATION autour de betty
-datePublished: '2016-04-29T18:14:11.226Z'
-dateModified: '2016-04-29T18:14:07.165Z'
-title: ''
-author: []
+description: "Nous avons commandé cette illustration dans l'optique de réunir sur une même image tout l'esprit et l'histoire de la marque Airstream. Cette idée de pied-de-nez à la mort, en voyageant le plus possible, faisant et vivant des choses les plus extra-ordinaires. Les Flamands Roses sont la Mascotte de la marque. C'est aussi ici, un petit clin d'oeil à nos amis sudistes: le Flamingo Café ..."
+datePublished: '2016-04-29T18:14:40.664Z'
+dateModified: '2016-04-29T18:14:37.881Z'
+title: ILLUSTRATION autour de BETTY
+author:
+  - name: WHYD DIG
+    url: ''
 sourcePath: _posts/2016-04-29-illustration-autour-de-betty.md
 published: true
 authors: []
@@ -22,9 +24,9 @@ url: illustration-autour-de-betty/index.html
 _type: Article
 
 ---
-ILLUSTRATION autour de betty
+# ILLUSTRATION autour de BETTY
 
-See more, Do more, Live more
+## See more, Do more, Live more
 ![Tete de mort, flamand rose et spirit of st louis](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b3b7c16a822724d33181f176741e1b095c86df8.jpg)
 
 **Nous avons commandé cette illustration dans l'optique de réunir sur une même image tout l'esprit et l'histoire de la marque Airstream. Cette idée de pied-de-nez à la mort, en voyageant le plus possible, faisant et vivant des choses les plus extra-ordinaires. Les Flamands Roses sont la Mascotte de la marque. C'est aussi ici, un petit clin d'oeil à nos amis sudistes: le Flamingo Café ...**
