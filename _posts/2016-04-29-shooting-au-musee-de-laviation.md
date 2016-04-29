@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: fr
 keywords: []
-description: "Nous avons organisé en 2014, un shooting au Musée de l'Aviation de Chasse de Montélimar. Nous remercions chaleureusement Alain Bes et toute son équipe pour l'accueil et la confiance qu'ils nous ont accordé."
-datePublished: '2016-04-29T18:26:12.211Z'
-dateModified: '2016-04-29T18:25:41.802Z'
+description: "Nous avons organisé en 2014, un shooting au Musée de l'Aviation de Chasse de Montélimar. Nous remercions chaleureusement Alain Bes et toute son équipe pour l'accueil et la confiance qu'ils nous ont accordée."
+datePublished: '2016-04-29T18:34:42.670Z'
+dateModified: '2016-04-29T18:29:42.233Z'
 author:
   - name: ''
     url: ''
@@ -29,11 +29,11 @@ _type: MediaObject
 ---
 # SHOOTING AU MUSEE DE L'AVIATION
 
-## Sève & Alex , les Gangsters
-
 <article style=""><h1>Shooting Gangster</h1><p>Retrouvez l'ensemble de photos de notre shooting au musee de l'aviation de Montélimar</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ca0b9810b3e071cabb77517437906790474fa84.jpg" /></article>
 
-**Nous avons organisé en 2014, un shooting au Musée de l'Aviation de Chasse de Montélimar. Nous remercions chaleureusement Alain Bes et toute son équipe pour l'accueil et la confiance qu'ils nous ont accordé.**
+## Sève & Alex , les Gangsters
+
+**Nous avons organisé en 2014, un shooting au Musée de l'Aviation de Chasse de Montélimar. Nous remercions chaleureusement Alain Bes et toute son équipe pour l'accueil et la confiance qu'ils nous ont accordée.**
 
 Pour plus d'infos sur le musée :
 
