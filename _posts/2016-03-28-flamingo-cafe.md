@@ -5,14 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Disponibles aussi pour vos événements privés !'
-datePublished: '2016-04-29T18:40:56.861Z'
-dateModified: '2016-04-29T18:40:46.357Z'
+datePublished: '2016-05-06T12:34:48.845Z'
+dateModified: '2016-05-06T12:34:46.096Z'
 author:
   - name: Alex chalon
     url: ''
 title: FLAMINGO CAFE
 sourcePath: _posts/2016-03-28-flamingo-cafe.md
-published: true
 authors: []
 publisher:
   name: facebook.com
@@ -26,9 +25,9 @@ _type: Article
 
 ---
 # FLAMINGO CAFE
-![Food Truck Trailer Caravane américaine](https://the-grid-user-content.s3-us-west-2.amazonaws.com/719a40f9-5ddc-4384-a043-ded9541c28e9.jpg)
 
 ## Burgers & Bagels de Ouf !!!!
+![Food Truck Trailer Caravane américaine](https://the-grid-user-content.s3-us-west-2.amazonaws.com/719a40f9-5ddc-4384-a043-ded9541c28e9.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/805c6c06865a7f59571ac9c176d51c8e4b84875b.jpg)
 
 **Une seconde caravane américaine Airstream était présente lors des USDAYS de Montboucher sur Jabron ,les 2 & 3 Avril derniers. Véritable icône de l'American Dream: Il s'agit du [Flamingo Café][0]**[. ][0]
