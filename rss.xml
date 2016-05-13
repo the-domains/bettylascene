@@ -4,7 +4,7 @@
         <description><![CDATA[BETTY-LASCENE & LES GANGSTERS]]></description>
         <link>http://betty-lascene.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 14:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 14:16:01 GMT</lastBuildDate>
         <atom:link href="http://betty-lascene.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betty Lascene et les gangsters]]></title>
@@ -19,6 +19,13 @@
             <link>http://betty-lascene.fr/betty/index.html</link>
             <guid isPermaLink="false">1e39b76b-1fc9-4879-9f8e-87efe2830597</guid>
             <pubDate>Mon, 25 Apr 2016 18:03:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SHOOT PHOTO]]></title>
+            <description><![CDATA[<article><h1>SHOOT PHOTO</h1><p>French Photography</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e63a46ac32954af8930f4bdab5cf7d11137d79f.jpg"></article>]]></description>
+            <link>http://betty-lascene.fr/a0421104-7dd7-4af0-82f0-85a2fe9f82fb/index.html</link>
+            <guid isPermaLink="false">a0421104-7dd7-4af0-82f0-85a2fe9f82fb</guid>
+            <pubDate>Fri, 13 May 2016 14:15:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Animation de mariage Valence]]></title>
@@ -61,13 +68,6 @@
             <link>http://betty-lascene.fr/betty-lascene-and-les-gangsters/index.html</link>
             <guid isPermaLink="false">5c89c06f-da35-49e5-bfe5-c76a406c2d2f</guid>
             <pubDate>Fri, 13 May 2016 13:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FLASH SUR PHOTO]]></title>
-            <description><![CDATA[<article><h1>FLASH SUR PHOTO</h1><h2>C'est grand !</h2><p>French Photography</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e63a46ac32954af8930f4bdab5cf7d11137d79f.jpg"></article>]]></description>
-            <link>http://betty-lascene.fr/a0421104-7dd7-4af0-82f0-85a2fe9f82fb/index.html</link>
-            <guid isPermaLink="false">a0421104-7dd7-4af0-82f0-85a2fe9f82fb</guid>
-            <pubDate>Fri, 13 May 2016 13:26:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scène Ouverte]]></title>
