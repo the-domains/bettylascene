@@ -4,7 +4,7 @@
         <description><![CDATA[BETTY-LASCENE & LES GANGSTERS]]></description>
         <link>http://betty-lascene.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 14:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 14:19:47 GMT</lastBuildDate>
         <atom:link href="http://betty-lascene.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betty Lascene et les gangsters]]></title>
@@ -19,6 +19,13 @@
             <link>http://betty-lascene.fr/betty/index.html</link>
             <guid isPermaLink="false">1e39b76b-1fc9-4879-9f8e-87efe2830597</guid>
             <pubDate>Mon, 25 Apr 2016 18:03:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bettty Lascene & les Gangsters]]></title>
+            <description><![CDATA[<article><h1>Bettty Lascene & les Gangsters</h1><p>caravane américaine rassemblement us vintage</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9414eae-6d04-42e3-8d0d-7487b0368dc0.jpg"></article>]]></description>
+            <link>http://betty-lascene.fr/9b003315-0c27-4e87-8392-55f4897878d4/index.html</link>
+            <guid isPermaLink="false">9b003315-0c27-4e87-8392-55f4897878d4</guid>
+            <pubDate>Fri, 13 May 2016 14:19:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SHOOT PHOTO]]></title>
@@ -68,13 +75,6 @@
             <link>http://betty-lascene.fr/betty-lascene-and-les-gangsters/index.html</link>
             <guid isPermaLink="false">5c89c06f-da35-49e5-bfe5-c76a406c2d2f</guid>
             <pubDate>Fri, 13 May 2016 13:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scène Ouverte]]></title>
-            <description><![CDATA[<article><h1>Scène Ouverte</h1><p>En extérieur ou à l'intérieur, Betty trouve toujours sa place !</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2950e8ae6cd2248ff6222c02ae515ddc133a68d3.jpg"></article>]]></description>
-            <link>http://betty-lascene.fr/open--is-spicy/index.html</link>
-            <guid isPermaLink="false">5a75ac9a-e07f-431d-9c3e-904cb19299ae</guid>
-            <pubDate>Fri, 13 May 2016 13:23:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
