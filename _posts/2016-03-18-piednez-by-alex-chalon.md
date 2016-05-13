@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Voici une chanson que nous avons écrite en attendant Betty :), pendant l'Eté 2013, à St Germain au mont d'Or."
-datePublished: '2016-04-25T18:00:10.412Z'
-dateModified: '2016-04-25T18:00:07.282Z'
+datePublished: '2016-05-13T15:12:37.594Z'
+dateModified: '2016-05-13T15:11:02.287Z'
 author:
   - name: ''
     url: 'http://soundcloud.com/alex-chalon'
@@ -51,7 +51,6 @@ app_links:
     type: ios
 title: HYMNE
 sourcePath: _posts/2016-03-18-piednez-by-alex-chalon.md
-published: true
 authors: []
 publisher:
   name: SoundCloud
