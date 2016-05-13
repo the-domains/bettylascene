@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Disponibles aussi pour vos événements privés !'
-datePublished: '2016-05-06T12:34:48.845Z'
-dateModified: '2016-05-06T12:34:46.096Z'
+datePublished: '2016-05-13T12:47:30.187Z'
+dateModified: '2016-05-06T12:40:03.797Z'
 author:
   - name: Alex chalon
     url: ''
