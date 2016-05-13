@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Groupe rock montelimar
-datePublished: '2016-05-11T14:13:52.954Z'
-dateModified: '2016-05-11T14:13:49.001Z'
+datePublished: '2016-05-13T14:32:43.721Z'
+dateModified: '2016-05-13T14:32:29.387Z'
 author:
   - name: ''
     url: ''
@@ -20,7 +20,7 @@ publisher:
   domain: www.animationmariagedrome.com
   url: 'http://www.animationmariagedrome.com'
   favicon: 'https://static.parastorage.com/client/pfavico.ico'
-starred: false
+starred: true
 url: contact/index.html
 _context: 'http://schema.org'
 _type: MediaObject
