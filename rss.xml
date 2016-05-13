@@ -4,7 +4,7 @@
         <description><![CDATA[BETTY-LASCENE & LES GANGSTERS]]></description>
         <link>http://betty-lascene.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 14:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 14:02:27 GMT</lastBuildDate>
         <atom:link href="http://betty-lascene.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betty Lascene et les gangsters]]></title>
@@ -21,13 +21,6 @@
             <pubDate>Mon, 25 Apr 2016 18:03:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Animation de mariage Valence]]></title>
-            <description><![CDATA[<article><h1>Animation de mariage Valence</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7eae1a78e8b33752c65de3fa4a8c62e984ef22c0.jpg"></article>]]></description>
-            <link>http://betty-lascene.fr/62eee52d-3223-4603-87bb-35b17d53ee5e/index.html</link>
-            <guid isPermaLink="false">62eee52d-3223-4603-87bb-35b17d53ee5e</guid>
-            <pubDate>Fri, 13 May 2016 14:02:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Alternative DJ montelimar]]></title>
             <description><![CDATA[<article><h1>Alternative DJ montelimar</h1><p>DJ drome ardeche alternative</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a65592080467e9c3d46ccdc94f7a0bec99bb6cf9.jpg"></article>]]></description>
             <link>http://betty-lascene.fr/34d8a793-c600-4d35-be6f-e9056647b218/index.html</link>
@@ -40,6 +33,13 @@
             <link>http://betty-lascene.fr/caf84159-5335-4add-8dfc-323bccf71454/index.html</link>
             <guid isPermaLink="false">caf84159-5335-4add-8dfc-323bccf71454</guid>
             <pubDate>Fri, 13 May 2016 13:59:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Animation de mariage Valence]]></title>
+            <description><![CDATA[<article><h1>Animation de mariage Valence</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7eae1a78e8b33752c65de3fa4a8c62e984ef22c0.jpg"></article>]]></description>
+            <link>http://betty-lascene.fr/62eee52d-3223-4603-87bb-35b17d53ee5e/index.html</link>
+            <guid isPermaLink="false">62eee52d-3223-4603-87bb-35b17d53ee5e</guid>
+            <pubDate>Fri, 13 May 2016 13:56:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Betty Lascene & les Gangsters]]></title>
