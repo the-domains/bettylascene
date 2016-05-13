@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Nous avons commandé cette illustration dans l'optique de réunir sur une même image tout l'esprit et l'histoire de la marque Airstream. Cette idée de pied-de-nez à la mort, en voyageant le plus possible, faisant et vivant des choses les plus extra-ordinaires. Les Flamands Roses sont la Mascotte de la marque. C'est aussi ici, un petit clin d'oeil à nos amis sudistes: le Flamingo Café ..."
-datePublished: '2016-05-13T15:31:36.636Z'
-dateModified: '2016-05-13T15:31:17.206Z'
+datePublished: '2016-05-13T15:35:49.465Z'
+dateModified: '2016-05-13T15:31:47.278Z'
 title: ILLUSTRATION autour de BETTY
 author:
   - name: WHYD DIG
