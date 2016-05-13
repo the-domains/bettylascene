@@ -5,14 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Qui est Betty Lascene ?
-datePublished: '2016-04-25T18:03:14.978Z'
-dateModified: '2016-04-25T18:02:50.539Z'
+datePublished: '2016-05-13T14:38:35.599Z'
+dateModified: '2016-05-13T14:38:29.901Z'
 title: 'Betty La Scene & les Gangsters'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-03-16-duo-betty-lascene.md
-published: true
 authors: []
 publisher:
   name: null
