@@ -4,7 +4,7 @@
         <description><![CDATA[BETTY-LASCENE & LES GANGSTERS]]></description>
         <link>http://betty-lascene.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 13:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 13:23:07 GMT</lastBuildDate>
         <atom:link href="http://betty-lascene.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betty Lascene et les gangsters]]></title>
@@ -19,6 +19,13 @@
             <link>http://betty-lascene.fr/betty/index.html</link>
             <guid isPermaLink="false">1e39b76b-1fc9-4879-9f8e-87efe2830597</guid>
             <pubDate>Mon, 25 Apr 2016 18:03:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scène Ouverte]]></title>
+            <description><![CDATA[<article><h1>Scène Ouverte</h1><p>En extérieur ou à l'intérieur, Betty trouve toujours sa place !</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2950e8ae6cd2248ff6222c02ae515ddc133a68d3.jpg"></article>]]></description>
+            <link>http://betty-lascene.fr/open--is-spicy/index.html</link>
+            <guid isPermaLink="false">5a75ac9a-e07f-431d-9c3e-904cb19299ae</guid>
+            <pubDate>Fri, 13 May 2016 13:23:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Betty Lascene & les Gangsters]]></title>
@@ -68,13 +75,6 @@
             <link>http://betty-lascene.fr/pour-ma-com-je-veux-betty/index.html</link>
             <guid isPermaLink="false">b3a34fdf-d8d2-48d0-9dad-c274e521b0ef</guid>
             <pubDate>Fri, 29 Apr 2016 11:26:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MARIAGE VINTAGE ]]></title>
-            <description><![CDATA[<article><h1>MARIAGE VINTAGE </h1><h2>décor American Dream</h2></article>]]></description>
-            <link>http://betty-lascene.fr/mariage-vintage/index.html</link>
-            <guid isPermaLink="false">588ca37d-5993-4f98-9928-07ca5b5564de</guid>
-            <pubDate>Thu, 28 Apr 2016 19:37:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
