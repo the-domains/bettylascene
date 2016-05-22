@@ -1,20 +1,4 @@
-name: 'DUO MUSICIENS COUNTRY ROCK  AIRSTREAM FRANCE caravane américaine '
-favicon: null
-layout_spectrum: 0.50186
 typography_spectrum: 0.20745
-title: 'BETTY LASCENE & LES GANGSTERS'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-75321215-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#030303'
@@ -26,4 +10,20 @@ color:
   lightness: 0
   saturation: 0
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50186
+analytics:
+  google: UA-75321215-1
+  facebook: "<!-- Facebook Pixel Code --> <script> !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n; n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');  fbq('init', '617785341705529'); fbq('track', \"PageView\");</script> <noscript><img height=\"1\" width=\"1\" style=\"display:none\" src=\"https://www.facebook.com/tr?id=617785341705529&ev=PageView&noscript=1\" /></noscript> <!-- End Facebook Pixel Code -->"
+  twitter: null
+name: 'DUO MUSICIENS COUNTRY ROCK  AIRSTREAM FRANCE caravane américaine '
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'BETTY LASCENE & LES GANGSTERS'
 purpose: []
