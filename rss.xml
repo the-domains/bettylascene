@@ -4,7 +4,7 @@
         <description><![CDATA[BETTY LASCENE & LES GANGSTERS]]></description>
         <link>http://betty-lascene.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 09:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 21:12:30 GMT</lastBuildDate>
         <atom:link href="http://betty-lascene.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betty La Scene & les Gangsters]]></title>
@@ -26,6 +26,13 @@
             <link>http://betty-lascene.fr/contact/index.html</link>
             <guid isPermaLink="false">ca3efbb8-6306-442b-a572-4bca85f0fc2e</guid>
             <pubDate>Fri, 13 May 2016 14:32:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LOVE & LIVE - Musiciens & DJ - Mariage Rhône Alpes]]></title>
+            <description><![CDATA[<article><h1>LOVE & LIVE - Musiciens & DJ - Mariage Rhône Alpes</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/360fdbc5cb6426e2575a7404503965deb6ecf5e4.jpg"></article>]]></description>
+            <link>http://loveandlive.fr</link>
+            <guid isPermaLink="false">000f6d90-f596-4975-a797-b07cb697074c</guid>
+            <pubDate>Wed, 01 Jun 2016 21:12:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mariage et Week-end avec Alex &co et Betty Lascene]]></title>
@@ -68,13 +75,6 @@
             <link>http://betty-lascene.fr/betty-lascene-and-les-gangsters/index.html</link>
             <guid isPermaLink="false">384494d0-cd45-42c9-8250-f4feac0ed997</guid>
             <pubDate>Fri, 13 May 2016 14:31:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SHOOT PHOTO]]></title>
-            <description><![CDATA[<article><h1>SHOOT PHOTO</h1><p>French Photography</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e63a46ac32954af8930f4bdab5cf7d11137d79f.jpg"></article>]]></description>
-            <link>http://betty-lascene.fr/a0421104-7dd7-4af0-82f0-85a2fe9f82fb/index.html</link>
-            <guid isPermaLink="false">a0421104-7dd7-4af0-82f0-85a2fe9f82fb</guid>
-            <pubDate>Fri, 13 May 2016 14:17:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
