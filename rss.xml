@@ -4,7 +4,7 @@
         <description><![CDATA[BETTY LASCENE & LES GANGSTERS]]></description>
         <link>http://betty-lascene.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 21:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 12:35:56 GMT</lastBuildDate>
         <atom:link href="http://betty-lascene.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betty La Scene & les Gangsters]]></title>
@@ -26,6 +26,13 @@
             <link>http://betty-lascene.fr/contact/index.html</link>
             <guid isPermaLink="false">ca3efbb8-6306-442b-a572-4bca85f0fc2e</guid>
             <pubDate>Fri, 13 May 2016 14:32:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Airstream trailers find new life as motels and more]]></title>
+            <description><![CDATA[<article><h1>Airstream trailers find new life as motels and more</h1><p>Airstream's glamour has expanded far beyond home as demonstrated by Belrepayre Airstream &amp; Retro Trailer Park in Manse, France. At night the park's lounge serves French food and wine, and spins oldies on vinyl - all from an Airstream.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29e75c5f60f1ee15744e5b71d19d42b757c5db12.jpg"></article>]]></description>
+            <link>http://www.usatoday.com/picture-gallery/travel/destinations/10greatplaces/2016/06/03/airstream-trailers-find-new-life-as-motels-and-more/85339874/</link>
+            <guid isPermaLink="false">74ea9cdc-8335-431c-8130-808095b1a2c2</guid>
+            <pubDate>Sun, 05 Jun 2016 12:26:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LOVE & LIVE - Musiciens & DJ - Mariage Rhône Alpes]]></title>
@@ -68,13 +75,6 @@
             <link>http://betty-lascene.fr/9b003315-0c27-4e87-8392-55f4897878d4/index.html</link>
             <guid isPermaLink="false">9b003315-0c27-4e87-8392-55f4897878d4</guid>
             <pubDate>Fri, 13 May 2016 14:53:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Betty Lascene & les Gangsters]]></title>
-            <description><![CDATA[<article><h1>Betty Lascene & les Gangsters</h1><p>Chanteur et chanteuse répertoire US</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23a345d8-ae47-4280-8522-ee0297f91273.jpg"></article>]]></description>
-            <link>http://betty-lascene.fr/betty-lascene-and-les-gangsters/index.html</link>
-            <guid isPermaLink="false">384494d0-cd45-42c9-8250-f4feac0ed997</guid>
-            <pubDate>Fri, 13 May 2016 14:31:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
