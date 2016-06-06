@@ -4,22 +4,19 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Betty Lascene et les Gangsters seront présents lors du 6ème Spring and Summer Party .
-datePublished: '2016-04-25T18:00:25.248Z'
-dateModified: '2016-04-25T17:59:40.195Z'
+description: >-
+  Betty Lascene et les Gangsters seront présents lors du 6ème Spring and Summer
+  Party .
+datePublished: '2016-06-06T07:18:40.591Z'
+dateModified: '2016-06-06T07:18:40.021Z'
 title: ARDECHE AMERICAN DREAM
 author:
   - name: ''
     url: 'http://lecabaretdebetty.wix.com/springandsummerparty'
 sourcePath: _posts/2016-03-16-spring-and-summer-party-6.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+publisher: null
+starred: true
 url: spring-and-summer-party-6/index.html
 _type: Article
 
