@@ -40,6 +40,9 @@ navigation:
   - name: Video
     id: b1af2b30-f9e6-41b2-a418-efc3ced312c2
     type: content
+  - name: Video
+    url: 'https://www.youtube.com/watch?v=STLFSiigZY0'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/85278151-457b-442b-9bf6-7db50b620721.ico
 title: Duo & Caravane
