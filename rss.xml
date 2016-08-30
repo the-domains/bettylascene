@@ -4,15 +4,8 @@
         <description><![CDATA[Duo & Caravane]]></description>
         <link>http://betty-lascene.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 18:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 18:23:00 GMT</lastBuildDate>
         <atom:link href="http://betty-lascene.fr/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[CONTACT]]></title>
-            <description><![CDATA[<article><h1>CONTACT</h1><p>duo avec caravane drome provencale</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86a19114-0723-45a0-a59f-3f9d97cd670f.jpg"></article>]]></description>
-            <link>http://betty-lascene.fr/contact/index.html</link>
-            <guid isPermaLink="false">ca3efbb8-6306-442b-a572-4bca85f0fc2e</guid>
-            <pubDate>Sun, 28 Aug 2016 18:21:40 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[RÉPERTOIRE]]></title>
             <description><![CDATA[<article><h1>RÉPERTOIRE</h1><h2>HOLD UP SUR LE ROCK</h2><p>...idéal d'un Rassemblement US !</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/104498454ab33ff284dbfc8370056adba1345ffc.jpg"></article>]]></description>
@@ -54,13 +47,6 @@
             <link>http://loveandlive.fr</link>
             <guid isPermaLink="false">000f6d90-f596-4975-a797-b07cb697074c</guid>
             <pubDate>Wed, 01 Jun 2016 21:12:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mariage et Week-end avec Alex &co et Betty Lascene]]></title>
-            <description><![CDATA[<article><h1>Mariage et Week-end avec Alex &co et Betty Lascene</h1><p>Animation mariage Alex & o, duo de Chanteur, chanteuse musiciens avec Betty Lascene, http://www.betty-lascene.fr</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6702abe2426fec81f3b6b9060d7725c7ba70a80.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=STLFSiigZY0</link>
-            <guid isPermaLink="false">b1af2b30-f9e6-41b2-a418-efc3ced312c2</guid>
-            <pubDate>Mon, 30 May 2016 09:13:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
