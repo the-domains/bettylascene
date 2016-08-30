@@ -4,22 +4,22 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "...idéal d'un Rassemblement US !"
-datePublished: '2016-04-25T18:01:31.884Z'
-dateModified: '2016-04-25T18:01:04.118Z'
+description: ...idéal d'un Rassemblement US !
+datePublished: '2016-08-28T18:19:27.432Z'
+dateModified: '2016-08-28T18:19:26.856Z'
 title: RÉPERTOIRE
 author:
   - name: Alex CHALON
     url: ''
 sourcePath: _posts/2016-03-16-hits-special-us-days.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
-starred: false
+via: {}
+starred: true
 url: 32-hits-special-us-days/index.html
 _type: Article
 
