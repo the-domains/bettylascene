@@ -30,6 +30,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: facebook
+    id: 6fe88183-950c-4d84-ab01-a92dea579d70
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/85278151-457b-442b-9bf6-7db50b620721.ico
 title: Duo & Caravane
