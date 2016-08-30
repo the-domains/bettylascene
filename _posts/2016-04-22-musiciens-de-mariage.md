@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Groupe rock montelimar
-datePublished: '2016-05-13T14:32:43.721Z'
-dateModified: '2016-05-13T14:32:29.387Z'
+description: duo avec caravane drome provencale
+datePublished: '2016-08-28T18:21:40.380Z'
+dateModified: '2016-08-28T18:21:39.902Z'
 author:
   - name: ''
     url: ''
@@ -16,10 +16,11 @@ title: CONTACT
 sourcePath: _posts/2016-04-22-musiciens-de-mariage.md
 authors: []
 publisher:
-  name: "Alex & co, Duo Live Music d' Animation mariage drome Ardeche"
-  domain: www.animationmariagedrome.com
-  url: 'http://www.animationmariagedrome.com'
-  favicon: 'https://static.parastorage.com/client/pfavico.ico'
+  name: ''
+  domain: null
+  url: 'http://www.animationmariagedrome.com/#!animationmontelimar/c24vq'
+  favicon: null
+via: {}
 starred: true
 url: contact/index.html
 _context: 'http://schema.org'
