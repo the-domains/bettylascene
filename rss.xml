@@ -4,8 +4,15 @@
         <description><![CDATA[Duo & Caravane]]></description>
         <link>http://betty-lascene.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 18:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 18:21:46 GMT</lastBuildDate>
         <atom:link href="http://betty-lascene.fr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CONTACT]]></title>
+            <description><![CDATA[<article><h1>CONTACT</h1><p>duo avec caravane drome provencale</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86a19114-0723-45a0-a59f-3f9d97cd670f.jpg"></article>]]></description>
+            <link>http://betty-lascene.fr/contact/index.html</link>
+            <guid isPermaLink="false">ca3efbb8-6306-442b-a572-4bca85f0fc2e</guid>
+            <pubDate>Sun, 28 Aug 2016 18:21:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[RÉPERTOIRE]]></title>
             <description><![CDATA[<article><h1>RÉPERTOIRE</h1><h2>HOLD UP SUR LE ROCK</h2><p>...idéal d'un Rassemblement US !</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/104498454ab33ff284dbfc8370056adba1345ffc.jpg"></article>]]></description>
@@ -28,11 +35,11 @@
             <pubDate>Fri, 13 May 2016 14:38:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CONTACT]]></title>
-            <description><![CDATA[<article><h1>CONTACT</h1><p>duo avec caravane drome provencale</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86a19114-0723-45a0-a59f-3f9d97cd670f.jpg"></article>]]></description>
-            <link>http://betty-lascene.fr/contact/index.html</link>
-            <guid isPermaLink="false">ca3efbb8-6306-442b-a572-4bca85f0fc2e</guid>
-            <pubDate>Fri, 13 May 2016 14:32:43 GMT</pubDate>
+            <title><![CDATA[Notre page facebook]]></title>
+            <description><![CDATA[<article><h1>Notre page facebook</h1><p>Attrapes-nous si tu peux !</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9b23d3a-dc8d-4dc3-9309-c465bb79ee5a.jpg"></article>]]></description>
+            <link>http://betty-lascene.fr/notre-page-facebook/index.html</link>
+            <guid isPermaLink="false">6fe88183-950c-4d84-ab01-a92dea579d70</guid>
+            <pubDate>Sun, 28 Aug 2016 18:20:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
