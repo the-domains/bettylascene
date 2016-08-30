@@ -20,7 +20,9 @@ keywords:
   - alice
   - vandals
   - '2014'
-description: 'Animation mariage Alex & o, duo de Chanteur, chanteuse musiciens avec Betty Lascene, http://www.betty-lascene.fr'
+description: >-
+  Animation mariage Alex & o, duo de Chanteur, chanteuse musiciens avec Betty
+  Lascene, http://www.betty-lascene.fr
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=STLFSiigZY0&feature=applinks'
@@ -59,15 +61,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=STLFSiigZY0'
-title: 'Mariage et Week-end avec Alex &co et Betty Lascene'
-datePublished: '2016-05-30T09:13:38.448Z'
-dateModified: '2016-05-29T16:22:24.746Z'
-starred: false
+title: Mariage et Week-end avec Alex &co et Betty Lascene
+datePublished: '2016-08-28T18:22:11.777Z'
+dateModified: '2016-08-28T18:22:11.129Z'
 sourcePath: _posts/2016-05-30-mariage-et-week-end-avec-alex-andco-et-betty-lascene.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: mariage-et-week-end-avec-alex-andco-et-betty-lascene/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
