@@ -1,27 +1,21 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: ...idéal d'un Rassemblement US !
-datePublished: '2016-08-28T18:19:27.432Z'
-dateModified: '2016-08-28T18:19:26.856Z'
+id: 4dba6e65-155e-4379-88ea-1c1b63ac1c02
+dateModified: '2016-08-30T11:52:19.363Z'
 title: RÉPERTOIRE
+datePublished: '2016-08-30T11:52:20.278Z'
 author:
   - name: Alex CHALON
     url: ''
-sourcePath: _posts/2016-03-16-hits-special-us-days.md
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+isBasedOnUrl: ''
+description: ...idéal d'un Rassemblement US !
+publisher: {}
 via: {}
-starred: true
-url: 32-hits-special-us-days/index.html
-_type: Article
+starred: false
+sourcePath: _posts/2016-03-16-hits-special-us-days.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # RÉPERTOIRE
@@ -33,9 +27,7 @@ _type: Article
 
 **Nous avons créé le répertoire qui nous semble idéal pour l'animation de votre rassemblement vintage de voitures et de motos anciennes.**
 
-**Zed 's dead Baby !******
-
-__
+**Zed 's dead Baby !**
 
 _Liste des titres :_
 
