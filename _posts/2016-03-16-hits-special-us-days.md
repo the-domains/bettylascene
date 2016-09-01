@@ -1,21 +1,19 @@
 ---
-id: 4dba6e65-155e-4379-88ea-1c1b63ac1c02
-dateModified: '2016-08-30T11:52:22.821Z'
-title: RÉPERTOIRE
-datePublished: '2016-08-30T11:52:23.654Z'
+datePublished: '2016-08-30T11:52:32.598Z'
+sourcePath: _posts/2016-03-16-hits-special-us-days.md
+inFeed: true
+isBasedOnUrl: ''
 author:
   - name: Alex CHALON
     url: ''
-isBasedOnUrl: ''
-description: ...idéal d'un Rassemblement US !
-publisher: {}
 via: {}
-sourcePath: _posts/2016-03-16-hits-special-us-days.md
+dateModified: '2016-08-30T11:52:31.618Z'
+title: RÉPERTOIRE
+id: 4dba6e65-155e-4379-88ea-1c1b63ac1c02
+publisher: {}
+description: ...idéal d'un Rassemblement US !
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+_type: Blurb
 
 ---
 # RÉPERTOIRE
