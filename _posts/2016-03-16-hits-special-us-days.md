@@ -1,8 +1,8 @@
 ---
 id: 4dba6e65-155e-4379-88ea-1c1b63ac1c02
-dateModified: '2016-08-30T11:52:19.363Z'
+dateModified: '2016-08-30T11:52:22.821Z'
 title: RÉPERTOIRE
-datePublished: '2016-08-30T11:52:20.278Z'
+datePublished: '2016-08-30T11:52:23.654Z'
 author:
   - name: Alex CHALON
     url: ''
@@ -10,8 +10,8 @@ isBasedOnUrl: ''
 description: ...idéal d'un Rassemblement US !
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-03-16-hits-special-us-days.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
