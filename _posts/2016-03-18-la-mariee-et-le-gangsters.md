@@ -1,39 +1,44 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-04-25T16:54:28.391Z'
-dateModified: '2016-04-25T16:54:25.217Z'
-title: "WOODY'JO PECKER"
-author: []
+datePublished: '2016-08-30T11:20:06.713Z'
 sourcePath: _posts/2016-03-18-la-mariee-et-le-gangsters.md
-published: true
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-30T11:20:05.960Z'
+title: WOODY'JO PECKER
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+description: >-
+  Oui, tout de rouge vêtue, ma nouvelle copine s’est mariée le 20 Septembre à St
+  Laurent d’Agny dans le Rhône, avec son amoureux qui portait un joli noeud
+  papillon damier.
+inLanguage: null
+inNav: false
+via: {}
 starred: false
 url: la-mariee-et-le-gangsters/index.html
 _type: Article
 
 ---
 # WOODY'JO PECKER
-![mariage Jo & max](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5240cdc8-4b81-43e2-a36b-7e2217a4d65b.jpg)
 
 ## Rouge Rockabilly
+![mariage Jo & max](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5240cdc8-4b81-43e2-a36b-7e2217a4d65b.jpg)
 
-**Oui, tout de rouge vêtue, ma nouvelle copine s'est mariée le 20 Septembre à St Laurent d'Agny dans le Rhône, avec son amoureux qui portait un joli noeud papillon damier. **
+**Oui, tout de rouge vêtue, ma nouvelle copine s'est mariée le 20 Septembre à St Laurent d'Agny dans le Rhône, avec son amoureux qui portait un joli noeud papillon damier.**
 
-Le thème de ce mariage était orienté Années 50 et 60 et quel bonheur de voir tous les invités jouer le jeu et se vêtir de robes mettant en valeur les courbes de toutes ces jeunes femmes ! 
+Le thème de ce mariage était orienté Années 50 et 60 et quel bonheur de voir tous les invités jouer le jeu et se vêtir de robes mettant en valeur les courbes de toutes ces jeunes femmes !
 
-Il m'a semblé revenir à mon adolescence , j'avais envie de chanter, danser, rock'n'roller. J'ai été pour le coup un petit peu le deuxième centre d'attention après Jo, la Mariée. Les convives se sont empressés de faire des photos devant mon sublime corps argenté. Ce ne fut pas pour me déplaire d'autant plus que celui qui prend les photos est , je crois , secrètement amoureux de moi... hihihi, il s'agit du célèbre photographe romanesque Alexandre Bienfait. 
+Il m'a semblé revenir à mon adolescence , j'avais envie de chanter, danser, rock'n'roller. J'ai été pour le coup un petit peu le deuxième centre d'attention après Jo, la Mariée. Les convives se sont empressés de faire des photos devant mon sublime corps argenté. Ce ne fut pas pour me déplaire d'autant plus que celui qui prend les photos est , je crois , secrètement amoureux de moi... hihihi, il s'agit du célèbre photographe romanesque Alexandre Bienfait.
 
-Son site[][0]
+Son site
 
 [http://www.abienfaitphotographe.com][0]
 
