@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T11:20:06.713Z'
+datePublished: '2016-08-30T11:40:32.002Z'
 sourcePath: _posts/2016-03-18-la-mariee-et-le-gangsters.md
 inFeed: true
 authors: []
@@ -8,20 +8,16 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-30T11:20:05.960Z'
+via: {}
+dateModified: '2016-08-30T11:39:58.090Z'
 title: WOODY'JO PECKER
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 description: >-
   Oui, tout de rouge vêtue, ma nouvelle copine s’est mariée le 20 Septembre à St
   Laurent d’Agny dans le Rhône, avec son amoureux qui portait un joli noeud
   papillon damier.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: la-mariee-et-le-gangsters/index.html
 _type: Article
@@ -30,7 +26,7 @@ _type: Article
 # WOODY'JO PECKER
 
 ## Rouge Rockabilly
-![mariage Jo & max](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5240cdc8-4b81-43e2-a36b-7e2217a4d65b.jpg)
+![Mariage de Joanne & Max à St Laurent d'Agny (Rhône)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5240cdc8-4b81-43e2-a36b-7e2217a4d65b.jpg)
 
 **Oui, tout de rouge vêtue, ma nouvelle copine s'est mariée le 20 Septembre à St Laurent d'Agny dans le Rhône, avec son amoureux qui portait un joli noeud papillon damier.**
 
