@@ -1,15 +1,16 @@
 ---
-datePublished: '2016-08-30T11:40:32.002Z'
+datePublished: '2016-08-30T12:13:18.620Z'
 sourcePath: _posts/2016-03-18-la-mariee-et-le-gangsters.md
 inFeed: true
+isBasedOnUrl: ''
 authors: []
-hasPage: true
+hasPage: false
 keywords: []
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-30T11:39:58.090Z'
+dateModified: '2016-08-30T12:13:17.267Z'
 title: WOODY'JO PECKER
 publisher: {}
 description: >-
@@ -19,8 +20,7 @@ description: >-
 inLanguage: null
 inNav: false
 starred: false
-url: la-mariee-et-le-gangsters/index.html
-_type: Article
+_type: Blurb
 
 ---
 # WOODY'JO PECKER
