@@ -1,14 +1,16 @@
 ---
-datePublished: '2016-08-30T12:13:27.461Z'
+datePublished: '2016-08-30T12:14:08.638Z'
 sourcePath: _posts/2016-03-16-bonnie-and-clyde.md
 inFeed: true
+isBasedOnUrl: ''
 authors: []
-hasPage: true
+hasPage: false
 keywords: []
 author:
   - name: Credits photos Alexandre Bienfait
     url: Alex CHALON
-dateModified: '2016-08-30T12:13:26.448Z'
+via: {}
+dateModified: '2016-08-30T12:14:08.023Z'
 title: HISTOIRE ...
 publisher:
   name: Alex CHALON
@@ -20,10 +22,8 @@ description: >-
   & Alex) ont habilement commis leurs méfaits.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
-url: betty-lascene-et-les-gangsters/index.html
-_type: Article
+_type: Blurb
 
 ---
 # HISTOIRE ...
