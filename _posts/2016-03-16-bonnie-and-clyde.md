@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T11:36:02.619Z'
+datePublished: '2016-08-30T12:13:27.461Z'
 sourcePath: _posts/2016-03-16-bonnie-and-clyde.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author:
   - name: Credits photos Alexandre Bienfait
     url: Alex CHALON
-dateModified: '2016-08-30T11:36:01.604Z'
+dateModified: '2016-08-30T12:13:26.448Z'
 title: HISTOIRE ...
 publisher:
   name: Alex CHALON
@@ -21,7 +21,7 @@ description: >-
 inLanguage: null
 inNav: false
 via: {}
-starred: true
+starred: false
 url: betty-lascene-et-les-gangsters/index.html
 _type: Article
 
