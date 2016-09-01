@@ -1,28 +1,34 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-04-28T19:37:58.684Z'
-dateModified: '2016-04-28T19:37:32.431Z'
-title: 'MARIAGE VINTAGE '
-author: []
+datePublished: '2016-08-30T11:20:52.121Z'
 sourcePath: _posts/2016-03-21-mariage-vintage.md
-published: true
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author:
+  - name: Alexandre Bienfait
+    url: ''
+dateModified: '2016-08-30T11:20:50.912Z'
+title: MARIAGE VINTAGE
 publisher:
-  name: null
+  name: Alex CHALON
   domain: null
-  url: null
+  url: ''
   favicon: null
+description: >-
+  cocktail et Airstream le Vintage, les années 50, le côté rétro attirent de
+  plus en plus les futurs jeunes mariés. De nombreux blog et autres site
+  internet donnent de plus en plus d’idée pour organiser un mariage vintage des
+  plus original. Une mariée dans une airstream
+inLanguage: null
+inNav: false
+via: {}
 starred: false
 url: mariage-vintage/index.html
 _type: Article
 
 ---
-# MARIAGE VINTAGE 
+# MARIAGE VINTAGE
 
 ## décor American Dream
 ![La Belle Séverine dans notre Airstream](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27551ae3-1cf7-4b6f-88e9-58cc03442e5d.jpg)
@@ -37,11 +43,11 @@ Vous trouverez plein d'idées originales en tapant sous google le mot clef **vin
 
 Dans ma région rhone alpes, [http://www.mademoiselle-dentelle.fr][4] se distingue par un blog tres bien conçu qui vous aidera dans l'organisation de votre plus beau jour avec des rubriques mode et beauté, décor, cérémonie réception et problèmes éventuels que vous pouvez rencontrer.
 
-Vous me connaissez un petit peu si vous avez fait le tour de ce blog site. Je suis Betty, une caravane américaine Airstream et suis disponible à la location. 
+Vous me connaissez un petit peu si vous avez fait le tour de ce blog site. Je suis Betty, une caravane américaine Airstream et suis disponible à la location.
 
-Vous pouvez donc me louer pour rajouter un cachet **vintage** encore plus authentique à votre **mariage**. 
+Vous pouvez donc me louer pour rajouter un cachet **vintage** encore plus authentique à votre **mariage**.
 
-Vous pourrez vous faire prendre en photo en vous frottant contre ma carlingue, vous pourrez passer votre nuit de noce sauvage en couchant dans mon écrin de lumière . 
+Vous pourrez vous faire prendre en photo en vous frottant contre ma carlingue, vous pourrez passer votre nuit de noce sauvage en couchant dans mon écrin de lumière .
 
 Je peux également venir accompagnée. De nombreux artistes se battent pour jouer sur mon corps de scène parfait pour un cocktail jazz crooner.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e033bf1a0a4bbeab671daf57922eff0e5819ccf.jpg)
