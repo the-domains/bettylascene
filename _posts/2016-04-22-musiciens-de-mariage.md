@@ -1,25 +1,18 @@
 ---
-datePublished: '2016-08-28T18:22:56.035Z'
-sourcePath: _posts/2016-04-22-musiciens-de-mariage.md
-inFeed: false
-authors: []
-hasPage: true
-keywords: []
-related: []
+id: ca3efbb8-6306-442b-a572-4bca85f0fc2e
+dateModified: '2016-09-01T07:00:54.441Z'
+title: CONTACT
+datePublished: '2016-09-01T07:03:11.819Z'
 author:
   - name: ''
     url: ''
-via: {}
-dateModified: '2016-08-28T18:22:55.565Z'
-title: CONTACT
-app_links: []
-publisher: {}
+isBasedOnUrl: 'http://www.animationmariagedrome.com/#!animationmontelimar/c24vq'
+inFeed: true
 description: duo avec caravane drome provencale
-inLanguage: null
-inNav: true
+publisher: {}
+via: {}
 starred: true
-url: contact/index.html
-_context: 'http://schema.org'
+sourcePath: _posts/2016-04-22-musiciens-de-mariage.md
 _type: MediaObject
 
 ---
