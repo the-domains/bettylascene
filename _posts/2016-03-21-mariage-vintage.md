@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T11:20:52.121Z'
+datePublished: '2016-09-01T07:02:54.767Z'
 sourcePath: _posts/2016-03-21-mariage-vintage.md
 inFeed: true
 authors: []
@@ -8,22 +8,18 @@ keywords: []
 author:
   - name: Alexandre Bienfait
     url: ''
-dateModified: '2016-08-30T11:20:50.912Z'
+via: {}
+dateModified: '2016-09-01T07:02:53.484Z'
 title: MARIAGE VINTAGE
 publisher:
   name: Alex CHALON
   domain: null
   url: ''
   favicon: null
-description: >-
-  cocktail et Airstream le Vintage, les années 50, le côté rétro attirent de
-  plus en plus les futurs jeunes mariés. De nombreux blog et autres site
-  internet donnent de plus en plus d’idée pour organiser un mariage vintage des
-  plus original. Une mariée dans une airstream
+description: Shoot photo pour le salon du mariage
 inLanguage: null
 inNav: false
-via: {}
-starred: false
+starred: true
 url: mariage-vintage/index.html
 _type: Article
 
@@ -33,7 +29,7 @@ _type: Article
 ## décor American Dream
 ![La Belle Séverine dans notre Airstream](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27551ae3-1cf7-4b6f-88e9-58cc03442e5d.jpg)
 
-cocktail et Airstream le **Vintage**, les années 50, le côté rétro attirent de plus en plus les futurs jeunes mariés. De nombreux blog et autres site internet donnent de plus en plus d'idée pour organiser un **[mariage vintage][0]** des plus original. Une mariée dans une [airstream][1]
+La mode **Vintage**, les années 50, le côté rétro attirent de plus en plus les futurs jeunes mariés. De nombreux blog et autres site internet donnent de plus en plus d'idée pour organiser un **[mariage vintage][0]** des plus original. Une mariée dans une [airstream][1]
 
 Voici tout d'abord un blog fort sympathique avec de nombreuses idées retro et**vintage **[http://mariages-retro.blogspot.fr][2]  
 Sur facebook vous pouvez également trouver de nombreuses pages comme celle ci que j'adoooore : [https://www.facebook.com/NEOVINTAGE][3]  
@@ -64,8 +60,8 @@ Photo en l'airstream, l'air retro, l'ere vintage
 Belle ambiance pour mariage exterieur avec une airstream
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d548f9e8-4244-405d-8559-45cddb3fe317.jpg)
 
-[0]: www.alexnco.fr
-[1]: http://alexnco.fr/cest-votre-mariage/
+[0]: http://www/loveandlive.fr "Animation mariage drome"
+[1]: http://www.betty-lascene.fr/ "Airstream france"
 [2]: http://mariages-retro.blogspot.fr/
 [3]: https://www.facebook.com/NEOVINTAGE
 [4]: http://www.mademoiselle-dentelle.fr/
