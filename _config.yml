@@ -31,9 +31,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Contact
-    id: ca3efbb8-6306-442b-a572-4bca85f0fc2e
-    type: content
   - name: Video
     url: 'https://www.youtube.com/watch?v=STLFSiigZY0'
     type: external
