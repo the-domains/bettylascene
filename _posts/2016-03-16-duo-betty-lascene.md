@@ -1,29 +1,32 @@
 ---
+datePublished: '2016-09-01T07:04:15.084Z'
+sourcePath: _posts/2016-03-16-duo-betty-lascene.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: Qui est Betty Lascene ?
-datePublished: '2016-05-13T14:53:58.571Z'
-dateModified: '2016-05-13T14:53:52.345Z'
-title: 'Betty La Scene & les Gangsters'
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-03-16-duo-betty-lascene.md
-authors: []
+dateModified: '2016-09-01T07:04:07.244Z'
+title: Betty ?
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+description: >-
+  Duo d'animation musicale , spectacle show pour particuliers et professionnels
+  drome ardeche rhone alpes
+inLanguage: null
+inNav: false
+via: {}
 starred: true
 url: betty/index.html
 _type: Article
 
 ---
-# Betty ? 
+# Betty ?
 
 ## Mais qu'a t 'elle de plus ......que MOI ?
 ![Betty, la scene des gangsters, duo de musiciens chanteurs](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5a832543abb022ad76ddf1d4244cd02e758268a.jpg)
