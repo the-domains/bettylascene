@@ -1,26 +1,23 @@
 ---
-datePublished: '2016-08-30T12:13:18.620Z'
+datePublished: '2016-09-01T07:00:08.898Z'
 sourcePath: _posts/2016-03-18-la-mariee-et-le-gangsters.md
 inFeed: true
-isBasedOnUrl: ''
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-30T12:13:17.267Z'
+dateModified: '2016-09-01T07:00:08.214Z'
 title: WOODY'JO PECKER
 publisher: {}
-description: >-
-  Oui, tout de rouge vêtue, ma nouvelle copine s’est mariée le 20 Septembre à St
-  Laurent d’Agny dans le Rhône, avec son amoureux qui portait un joli noeud
-  papillon damier.
+description: La Mariée était en rouge
 inLanguage: null
 inNav: false
-starred: false
-_type: Blurb
+starred: true
+url: woodyjo-pecker/index.html
+_type: Article
 
 ---
 # WOODY'JO PECKER
