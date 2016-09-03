@@ -37,6 +37,9 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/BETTYLASCENE'
     type: external
+  - name: CONTACT
+    id: ca3efbb8-6306-442b-a572-4bca85f0fc2e
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1d30937-d2b2-4fb2-9bf5-cee1cdf3e6d9.png
 title: 'Music, Events & Airstream'
