@@ -1,19 +1,20 @@
 ---
 id: ca3efbb8-6306-442b-a572-4bca85f0fc2e
-dateModified: '2016-09-01T07:00:54.441Z'
+dateModified: '2016-09-01T07:08:14.052Z'
 title: CONTACT
-datePublished: '2016-09-01T07:03:11.819Z'
+datePublished: '2016-09-01T07:08:14.566Z'
 author:
   - name: ''
     url: ''
-isBasedOnUrl: 'http://www.animationmariagedrome.com/#!animationmontelimar/c24vq'
 inFeed: true
 description: duo avec caravane drome provencale
 publisher: {}
 via: {}
-starred: true
 sourcePath: _posts/2016-04-22-musiciens-de-mariage.md
-_type: MediaObject
+hasPage: true
+starred: true
+url: contact/index.html
+_type: Article
 
 ---
 # CONTACT
