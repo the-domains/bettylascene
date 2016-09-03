@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T07:02:57.272Z'
+datePublished: '2016-09-01T07:07:43.778Z'
 sourcePath: _posts/2016-03-21-mariage-vintage.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: Alexandre Bienfait
     url: ''
 via: {}
-dateModified: '2016-09-01T07:02:56.875Z'
+dateModified: '2016-09-01T07:05:21.401Z'
 title: MARIAGE VINTAGE
 publisher:
   name: Alex CHALON
