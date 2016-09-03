@@ -1,25 +1,24 @@
 ---
-datePublished: '2016-08-30T11:52:32.598Z'
+datePublished: '2016-09-01T06:59:33.343Z'
 sourcePath: _posts/2016-03-16-hits-special-us-days.md
 inFeed: true
-isBasedOnUrl: ''
-author:
-  - name: Alex CHALON
-    url: ''
+hasPage: true
+author: []
 via: {}
-dateModified: '2016-08-30T11:52:31.618Z'
+dateModified: '2016-09-01T06:59:32.464Z'
 title: RÉPERTOIRE
 id: 4dba6e65-155e-4379-88ea-1c1b63ac1c02
 publisher: {}
-description: ...idéal d'un Rassemblement US !
+description: Le répertoire idéal pour un rassemblement de voitures et motos américaines
 starred: true
-_type: Blurb
+url: repertoire/index.html
+_type: Article
 
 ---
 # RÉPERTOIRE
 
 ## HOLD UP SUR LE ROCK
-![Teye Apache Guitare de Nashville](https://s3-us-west-2.amazonaws.com/the-grid-img/p/104498454ab33ff284dbfc8370056adba1345ffc.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/104498454ab33ff284dbfc8370056adba1345ffc.jpg)
 
 **...idéal d'un Rassemblement US !**
 
