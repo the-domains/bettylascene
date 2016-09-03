@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T07:04:15.084Z'
+datePublished: '2016-09-01T07:07:38.325Z'
 sourcePath: _posts/2016-03-16-duo-betty-lascene.md
 inFeed: true
 authors: []
@@ -8,13 +8,9 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-09-01T07:04:07.244Z'
+dateModified: '2016-09-01T07:05:00.372Z'
 title: Betty ?
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 description: >-
   Duo d'animation musicale , spectacle show pour particuliers et professionnels
   drome ardeche rhone alpes
