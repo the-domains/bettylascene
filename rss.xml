@@ -4,7 +4,7 @@
         <description><![CDATA[Music, Events & Airstream]]></description>
         <link>http://betty-lascene.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 07:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 09:26:32 GMT</lastBuildDate>
         <atom:link href="http://betty-lascene.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betty ?]]></title>
@@ -12,13 +12,6 @@
             <link>http://betty-lascene.fr/betty/index.html</link>
             <guid isPermaLink="false">1e39b76b-1fc9-4879-9f8e-87efe2830597</guid>
             <pubDate>Thu, 01 Sep 2016 07:07:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CONTACT]]></title>
-            <description><![CDATA[<article><h1>CONTACT</h1><p>duo avec caravane drome provencale</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86a19114-0723-45a0-a59f-3f9d97cd670f.jpg"></article>]]></description>
-            <link>http://www.animationmariagedrome.com/#!animationmontelimar/c24vq</link>
-            <guid isPermaLink="false">ca3efbb8-6306-442b-a572-4bca85f0fc2e</guid>
-            <pubDate>Thu, 01 Sep 2016 07:03:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RÉPERTOIRE]]></title>
@@ -35,11 +28,11 @@
             <pubDate>Thu, 01 Sep 2016 07:03:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MARIAGE VINTAGE]]></title>
-            <description><![CDATA[<article><h1>MARIAGE VINTAGE</h1><h2>décor American Dream</h2><p>Shoot photo pour le salon du mariage</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27551ae3-1cf7-4b6f-88e9-58cc03442e5d.jpg"></article>]]></description>
-            <link>http://betty-lascene.fr/mariage-vintage/index.html</link>
-            <guid isPermaLink="false">588ca37d-5993-4f98-9928-07ca5b5564de</guid>
-            <pubDate>Thu, 01 Sep 2016 07:02:57 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52be1541-dcf8-40c3-999c-aac268d2d591.jpg">]]></description>
+            <link>http://betty-lascene.fr/37bfbe3c-914c-4bc6-ad97-74b1e4cd0268/index.html</link>
+            <guid isPermaLink="false">37bfbe3c-914c-4bc6-ad97-74b1e4cd0268</guid>
+            <pubDate>Thu, 01 Sep 2016 09:26:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LOVE & LIVE - Musiciens & DJ - Mariage Rhône Alpes]]></title>
@@ -49,11 +42,25 @@
             <pubDate>Wed, 01 Jun 2016 21:12:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[MARIAGE VINTAGE]]></title>
+            <description><![CDATA[<article><h1>MARIAGE VINTAGE</h1><h2>décor American Dream</h2><p>Shoot photo pour le salon du mariage</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27551ae3-1cf7-4b6f-88e9-58cc03442e5d.jpg"></article>]]></description>
+            <link>http://betty-lascene.fr/mariage-vintage/index.html</link>
+            <guid isPermaLink="false">588ca37d-5993-4f98-9928-07ca5b5564de</guid>
+            <pubDate>Thu, 01 Sep 2016 07:07:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[OPEN .... IS SPICY]]></title>
             <description><![CDATA[<article><h1>OPEN .... IS SPICY</h1><h2>Sublime écrin scintillant</h2><p>Caravane américaine AIRSTREAM groupe de musique</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2950e8ae6cd2248ff6222c02ae515ddc133a68d3.jpg"></article>]]></description>
             <link>http://betty-lascene.fr/open--is-spicy/index.html</link>
             <guid isPermaLink="false">5a75ac9a-e07f-431d-9c3e-904cb19299ae</guid>
             <pubDate>Thu, 01 Sep 2016 07:07:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CONTACT]]></title>
+            <description><![CDATA[<article><h1>CONTACT</h1><p>duo avec caravane drome provencale</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86a19114-0723-45a0-a59f-3f9d97cd670f.jpg"></article>]]></description>
+            <link>http://betty-lascene.fr/contact/index.html</link>
+            <guid isPermaLink="false">ca3efbb8-6306-442b-a572-4bca85f0fc2e</guid>
+            <pubDate>Thu, 01 Sep 2016 07:08:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
