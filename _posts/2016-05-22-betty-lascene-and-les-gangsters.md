@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://betty-lascene.fr'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-09-01T09:26:46.257Z'
-dateModified: '2016-07-18T22:06:39.561Z'
+datePublished: '2016-09-01T09:36:21.456Z'
+dateModified: '2016-09-01T09:35:45.553Z'
 author: []
 related: []
 app_links: []
@@ -19,6 +19,7 @@ publisher:
   url: 'http://betty-lascene.fr'
   favicon: null
 sourcePath: _posts/2016-05-22-betty-lascene-and-les-gangsters.md
+via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
