@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T07:03:32.783Z'
+datePublished: '2016-09-01T09:47:36.629Z'
 sourcePath: _posts/2016-03-18-la-mariee-et-le-gangsters.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-09-01T07:03:32.051Z'
+dateModified: '2016-09-01T09:47:21.464Z'
 title: WOODY'JO PECKER
 publisher: {}
 description: La Mariée était en rouge
