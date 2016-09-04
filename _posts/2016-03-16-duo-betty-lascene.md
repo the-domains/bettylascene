@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T07:07:38.325Z'
+datePublished: '2016-09-01T09:43:14.385Z'
 sourcePath: _posts/2016-03-16-duo-betty-lascene.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-09-01T07:05:00.372Z'
+dateModified: '2016-09-01T09:43:13.570Z'
 title: Betty ?
 publisher: {}
 description: >-
@@ -17,7 +17,7 @@ description: >-
 inLanguage: null
 inNav: false
 via: {}
-starred: true
+starred: false
 url: betty/index.html
 _type: Article
 
