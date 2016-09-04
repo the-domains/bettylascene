@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T09:26:39.636Z'
+datePublished: '2016-09-01T09:36:29.049Z'
 sourcePath: _posts/2016-08-31-teyeguitars-loveandlive-guitarhero-weddingmusic.md
 inFeed: true
 isBasedOnUrl: 'https://www.instagram.com/p/BIxY_4OhBSJ/'
@@ -10,7 +10,7 @@ author:
     url: 'https://www.instagram.com/alex_chalon'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T07:01:21.449Z'
+dateModified: '2016-09-01T09:36:10.072Z'
 title: '#teyeguitars #loveandlive #guitarhero #weddingmusic'
 app_links:
   - url: 'instagram://media?id=1310938909357905033'
