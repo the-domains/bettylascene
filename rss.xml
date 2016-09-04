@@ -4,7 +4,7 @@
         <description><![CDATA[Music, Events & Airstream]]></description>
         <link>http://betty-lascene.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 09:47:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 09:47:42 GMT</lastBuildDate>
         <atom:link href="http://betty-lascene.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betty ?]]></title>
@@ -26,6 +26,13 @@
             <link>http://betty-lascene.fr</link>
             <guid isPermaLink="false">4c16860b-f954-449a-9bbb-3bfaa458f6b0</guid>
             <pubDate>Thu, 01 Sep 2016 09:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OPEN .... IS SPICY]]></title>
+            <description><![CDATA[<article><h1>OPEN .... IS SPICY</h1><h2>Sublime écrin scintillant</h2><p>Caravane américaine AIRSTREAM groupe de musique</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2950e8ae6cd2248ff6222c02ae515ddc133a68d3.jpg"></article>]]></description>
+            <link>http://betty-lascene.fr/open--is-spicy/index.html</link>
+            <guid isPermaLink="false">5a75ac9a-e07f-431d-9c3e-904cb19299ae</guid>
+            <pubDate>Thu, 01 Sep 2016 09:47:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WOODY'JO PECKER]]></title>
@@ -54,13 +61,6 @@
             <link>https://www.instagram.com/p/BIxY_4OhBSJ/</link>
             <guid isPermaLink="false">2b94a7fe-ea44-49d4-bad8-5ebf1f893444</guid>
             <pubDate>Thu, 01 Sep 2016 09:36:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OPEN .... IS SPICY]]></title>
-            <description><![CDATA[<article><h1>OPEN .... IS SPICY</h1><h2>Sublime écrin scintillant</h2><p>Caravane américaine AIRSTREAM groupe de musique</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2950e8ae6cd2248ff6222c02ae515ddc133a68d3.jpg"></article>]]></description>
-            <link>http://betty-lascene.fr/open--is-spicy/index.html</link>
-            <guid isPermaLink="false">5a75ac9a-e07f-431d-9c3e-904cb19299ae</guid>
-            <pubDate>Thu, 01 Sep 2016 09:42:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MARIAGE VINTAGE]]></title>
