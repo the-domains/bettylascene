@@ -1,4 +1,3 @@
-layout_spectrum: 0.21944427490234375
 typography_spectrum: 0.6917655423749238
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.21944427490234375
 analytics:
   google: UA-75321215-1
   facebook: 617785341705529
@@ -42,5 +42,5 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1d30937-d2b2-4fb2-9bf5-cee1cdf3e6d9.png
-title: 'Music, Events & Airstream'
+title: 'Airstream , Music & Events'
 purpose: []
